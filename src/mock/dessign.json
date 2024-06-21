@@ -1,0 +1,47 @@
+{
+  "FRAME": [
+    {
+      "name": "Basic Data",
+      "content": [
+        {
+          "name": "Teaching Data",
+          "content": [""]
+        },
+        {
+          "name": "Information",
+          "content": [""]
+        },
+        {
+          "name": "Manual",
+          "content": [""]
+        },
+        {
+          "name": "Enterprise data",
+          "content": [""]
+        }
+      ]
+    },
+    {
+      "name": "Data",
+      "content": [{ "name": "Part", "content": ["Part"] }]
+    },
+    {
+      "name": "Calculate tool",
+      "content": [
+        {
+          "name": "Calculator",
+          "content": ["Calculator"]
+        }
+      ]
+    },
+    {
+      "name": "Gallery",
+      "content": [
+        {
+          "name": "Drawing Resources",
+          "content": ["Drawing Resources"]
+        }
+      ]
+    }
+  ]
+}

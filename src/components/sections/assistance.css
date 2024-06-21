@@ -1,0 +1,17 @@
+/* Establecer reglas de estilo para las subsecciones */
+.sub-sections {
+  font-size: 0.9rem;
+}
+.sub-sections:last-child {
+  border-bottom: 0px solid;
+}
+.sub-sections {
+  height: 0px;
+  overflow: hidden;
+}
+.show {
+  height: min-content;
+  padding: 3px;
+  border-bottom: 2px solid;
+  border-color: rgb(215, 217, 221);
+}

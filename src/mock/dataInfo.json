@@ -1,0 +1,3712 @@
+{
+  "ch": {
+    "dataInfo": {
+      "Finishing": [
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "预处理"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "表面强化"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "表面涂层"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "表面处理与精饰"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1
+          ],
+          "name": "防腐蚀处理"
+        }
+      ],
+      "finishingsInfo_ch": [
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "优异的耐腐蚀性, 耐老化性, 色彩美观多样",
+              "featureName": "喷粉",
+              "featureUtility": "将粉末涂料喷涂到工件表面, 并利用静电放电现象使粉末涂层附着在工件上, 形成粉末涂层；粉末涂层经过高温烘烤、水平化和固化, 形成具有不同效果的最终涂层",
+              "name": "powder"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 美观",
+              "featureName": "喷油",
+              "featureUtility": "将油漆倒入容器, 用机械设备施加压力, 将油漆以雾状喷射到产品上, 形成油漆膜",
+              "name": "spraying"
+            },
+            {
+              "featureCharacter": "耐热性, 绝缘稳定性, 低摩擦",
+              "featureName": "喷涂特氟龙",
+              "featureUtility": "将粉末状的特氟龙材料喷涂在各种基材表面上",
+              "name": "fuel"
+            }
+          ],
+          "finishingName": "喷涂",
+          "name": "喷涂"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "耐腐蚀性, 耐磨性, 高硬度",
+              "featureName": "阳极氧化",
+              "featureUtility": "通过电解处理在铝或铝合金表面生成氧化膜的处理工艺, 经过阳极氧化处理得到薄膜",
+              "name": "anodic"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 耐磨性, 高硬度, 高温",
+              "featureName": "硬质阳极氧化",
+              "featureUtility": "把合金相应的电解质（如硫酸, 铬酸, 草酸等）作为阳极, 在一定条件下和外加电流进行电解",
+              "name": "hard-anodizing"
+            }
+          ],
+          "finishingName": "氧化",
+          "name": "氧化"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "优异的耐腐蚀性, 美观, 高硬度, 良好的高耐热性",
+              "featureName": "镀铬",
+              "featureUtility": "在镀铬过程中, 工件作为阴极, 被放置在含有铬酸盐的电解液中。通电情况下, 电解液中的铬离子在阴极表面还原成金属铬, 沉积在工件表面形成铬层",
+              "name": "chromium"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 低成本, 高硬度, 高耐磨性",
+              "featureName": "镀锌",
+              "featureUtility": "将经过镀前处理的零件放入机械转动的滚筒中, 加入水和冲击介质（玻璃丸）, 滚筒转动形成一个具有碰撞和搓碾作用的流态环境",
+              "name": "galvanizing"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 耐色",
+              "featureName": "镀锡",
+              "featureUtility": "在金属表面镀上一层金属锡, 用于隔绝空气, 保护铜材不会受外界的腐蚀",
+              "name": "tin-plating"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 耐磨性",
+              "featureName": "镀镍",
+              "featureUtility": "镀镍是一种通过电解生产镍涂层的工艺。具有良好的耐磨性、高耐腐蚀性, 对碱、酸和气体具有化学抗性",
+              "name": "nickel-plating"
+            }
+          ],
+          "finishingName": "电镀",
+          "name": "电镀"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "耐腐蚀性, 低成本, 无尺寸变化, 不易剥落",
+              "featureName": "发黑",
+              "featureUtility": "利用化学反应在基体表面形成黑色保护膜的方法, 具有诸多优点, 如赋予基体防锈能力、加工成本低、不改变尺寸、不易剥落",
+              "name": "blackening"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 美观, 提高油漆层的附着力",
+              "featureName": "磷化",
+              "featureUtility": "在金属表面提供一层保护膜, 与空气隔离, 防止腐蚀, 提高油漆层的附着力和耐腐蚀性",
+              "name": "phosphating"
+            }
+          ],
+          "finishingName": "化学表面处理",
+          "name": "化学"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "提高塑性, 提高切削性能, 降低硬度",
+              "featureName": "退火",
+              "featureUtility": "将金属或合金 加热到适当温度, 保温一定时间, 然后缓慢冷却 （一般为随炉冷却）的热处理工艺",
+              "name": "carbon-nitrogen"
+            },
+            {
+              "featureCharacter": "耐磨性, 提高硬度, 增强强度",
+              "featureName": "淬火",
+              "featureUtility": "淬火是通过选择性地改变和改造微观结构来增加车削和铣削零件的机械阻力",
+              "name": "annealing"
+            },
+            {
+              "featureCharacter": "提高韧性、降低硬度、提高组织稳定性",
+              "featureName": "回火",
+              "featureUtility": "将经过淬火的工件重新加热到低于下临界温度Ac1(加热时珠光体向奥氏体转变的开始温度)的适当温度, 保温一段时间后在空气或水、油等介质中冷却的金属热处理工艺",
+              "name": "quenching"
+            },
+            {
+              "featureCharacter": "提高弹性, 增加强度, 提高耐腐蚀性能, 耐磨性",
+              "featureName": "渗氮",
+              "featureUtility": "将工件置于密封容器中, 通入流动氨气并加热。经过长时间保温, 氨气分解产生活性氮原子, 连续吸附到工件的表面并扩散到工件表面, 从而改变表层的化学组成和结构, 实现优异的表面性能",
+              "name": "tempering"
+            },
+            {
+              "featureCharacter": "提高弹性, 增加强度, 提高耐腐蚀性能, 耐磨性",
+              "featureName": "碳氮共渗",
+              "featureUtility": "碳氮共浸渗是一种热化学表面淬火过程, 其后续淬火步骤类似于表面淬火。在此过程中, 材料表层也富含氮元素。碳氮共浸渗的温度比用于表面硬化的温度低。这减少了变形的风险。可以实现更高的表面硬度, 特别适用于非合金钢和低合金钢",
+              "name": "nitriding"
+            }
+          ],
+          "finishingName": "表面热处理",
+          "name": "表面热处理"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "黑色尺寸, 精度, 提高耐腐蚀性能, 美观",
+              "featureName": "抛光",
+              "featureUtility": "抛光是一种化学表面处理, 用于在黑色金属表面形成一层薄弱的保护层。抛光不是一种涂层。由于化学过程, 材料将变为黑色",
+              "name": "laser"
+            },
+            {
+              "featureCharacter": "能够抛光复杂部件, 高效, 提高耐腐蚀性能",
+              "featureName": "电解抛光",
+              "featureUtility": "将被抛光工件作为阳极, 不溶性金属为阴极, 两极同时浸入到电解槽中, 通以直流电而产生有选择性的阳极溶解, 从而达到工件表面光亮度增大的效果",
+              "name": "polishing"
+            },
+            {
+              "featureCharacter": "低成本, 高效率, 适用于低精度的大批量生产",
+              "featureName": "丝印",
+              "featureUtility": "通过胶头的作用将刻在钢板上的图案转移到工件上, 通过胶刮的压力将油墨从网版的网孔中渗透到产品上, 形成图案",
+              "name": "wire"
+            },
+            {
+              "featureCharacter": "标记速度快, 美观, 永不磨损, 快速速度, 低成本",
+              "featureName": "镭雕",
+              "featureUtility": "使用激光器在焦点处发射的高强度聚焦激光束氧化材料并对其进行加工",
+              "name": "silk-screen"
+            },
+            {
+              "featureCharacter": "表面强化, 美观, 高效",
+              "featureName": "喷砂",
+              "featureUtility": "喷砂利用压缩空气作为动力形成高速喷射束, 将研磨材料以高速喷射到待处理工件表面, 造成工件外表面的物理改变",
+              "name": "sandblasting"
+            },
+            {
+              "featureCharacter": "表面强化, 高强度, 耐腐蚀性, 平滑表面",
+              "featureName": "拉丝",
+              "featureUtility": "采用拉丝的布条往复运动, 在工件表面来回摩擦使工件表面光洁度提高, 表面纹理呈直线状",
+              "name": "electrolytic"
+            }
+          ],
+          "finishingName": "其他",
+          "name": "其他"
+        }
+      ],
+      "finishingsInfo_en": [
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": " Excellent corrosion resistance, Aging resistance, Beautiful and diverse in color",
+              "featureName": "Powder spray painting",
+              "featureUtility": "Spray powder coating onto the surface of the workpiece, and use the phenomenon of corona discharge to make the powder coating adhere to the workpiece, forming a powdery coating; The powdery coating undergoes high-temperature baking, leveling and solidification to form final coatings with different effects",
+              "name": "powder"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, beautiful",
+              "featureName": "Spray",
+              "featureUtility": "Pour the paint into a container, apply pressure with mechanical equipment, and spray the paint onto the product in a mist form to form a paint film",
+              "name": "spraying"
+            },
+            {
+              "featureCharacter": "Heat resistance, Insulation stability, Low friction",
+              "featureName": "Spraying Teflon",
+              "featureUtility": "Spray Teflon material is sprayed on a variety of substrate surfaces",
+              "name": "fuel"
+            }
+          ],
+          "finishingName": "Spray coating",
+          "name": "Spray coating"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Corrosion resistance, Wear resistance, High hardness",
+              "featureName": "Anodic oxidation",
+              "featureUtility": "The treatment process of producing an oxide film on the surface of aluminum or aluminum alloy using electrolytic treatment, resulting in a thin film obtained through anodic oxidation treatment",
+              "name": "anodic"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, Wear resistance, High hardness, Hyperthermia",
+              "featureName": "Hard anodizing",
+              "featureUtility": "The corresponding electrolyte of the alloy (such as sulfuric acid, chromic acid, oxalic acid, etc.) is used as the anode, and the electrolysis is carried out under certain conditions and the applied current",
+              "name": "hard-anodizing"
+            }
+          ],
+          "finishingName": "Oxidation",
+          "name": "Oxidation"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Excellent corrosion resistance, beautiful, High hardness, Good high heat resistance",
+              "featureName": "Chromium plating",
+              "featureUtility": "In the chrome plating process, the workpiece acts as a cathode and is placed in an electrolyte containing chromate. When energized, the chromium ions in the electrolyte are reduced to metallic chromium on the surface of the cathode, which is deposited on the surface of the workpiece to form a chromium layer",
+              "name": "chromium"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, low cost, High hardness, High wear resistance",
+              "featureName": "Galvanizing",
+              "featureUtility": "Place the pre plated parts into a mechanically rotating drum, add water and impact medium (glass pellets), and the drum rotates to form a fluid environment with collision and rolling effects",
+              "name": "galvanizing"
+            },
+            {
+              "featureCharacter": " A layer of metal tin is coated on the surface of the metal to isolate the air and protect the copper from external corrosion",
+              "featureName": "Tin plating",
+              "name": "tin-plating"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, Wear resistance",
+              "featureName": "Nickel plating",
+              "featureUtility": "Nickel plating is a process for electrolytic production of nickel coatings. It has good wear resistance, high corrosion resistance, and chemical resistance to alkali, acid, and gas",
+              "name": "nickel-plating"
+            }
+          ],
+          "finishingName": "Electroplating",
+          "name": "Electroplating"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Corrosion resistance, low cost, No size change, Not easy to peel off",
+              "featureName": "Blackening",
+              "featureUtility": "The use of chemical reactions to form a black protective film on the surface of the substrate has many advantages, such as endowing the substrate with rust prevention ability, low processing cost, no size change, and not easy to peel off",
+              "name": "blackening"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, beautiful, Improve the adhesion of the paint layer",
+              "featureName": "Phosphating",
+              "featureUtility": "Provide a protective film on the metal surface to isolate it from air, prevent corrosion, and improve the adhesion and corrosion resistance of the paint layer",
+              "name": "phosphating"
+            }
+          ],
+          "finishingName": "Chemical surface treatment",
+          "name": "Chemical"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Improve plasticity, Improving cutting performance, Reduce hardness",
+              "featureName": "Annealing",
+              "featureUtility": "A heat treatment process in which a metal or alloy is heated to an appropriate temperature, kept warm for a certain period of time, and then slowly cooled (usually cooled with a furnace).",
+              "name": "carbon-nitrogen"
+            },
+            {
+              "featureCharacter": "Wear resistance , Improve hardness , Increase intensity",
+              "featureName": "Quenching",
+              "featureUtility": "Quenching is the process of selectively altering and modifying the microstructure to increase the mechanical resistance of turning and milling parts.",
+              "name": "annealing"
+            },
+            {
+              "featureCharacter": "Improving resilience, Reduce hardness, Improve organizational stability",
+              "featureName": "Tempering",
+              "featureUtility": "This is a metal heat treatment process in which the quenched workpiece is reheated to an appropriate temperature below the lower critical temperature Ac1 (the starting temperature at which the pearlite converts to austenite when heated), and then cooled in air or water, oil and other media after holding it for a period of time.",
+              "name": "tempering"
+            },
+            {
+              "featureCharacter": "Improving resilience, Increase intensity, Improve corrosion resistance performance, Wear resistance",
+              "featureName": "Nitriding",
+              "featureUtility": "Place the workpiece into a sealed container, pass through flowing ammonia gas and heat it. After a long period of insulation, the ammonia gas decomposes to produce active nitrogen atoms, which continuously adsorb onto the surface of the workpiece and diffuse into the surface of the workpiece, thereby changing the chemical composition and structure of the surface layer and achieving excellent surface performance.",
+              "name": "quenching"
+            },
+            {
+              "featureCharacter": "Improving resilience,  Increase intensity,  Improve corrosion resistance performance,  Wear resistance",
+              "featureName": "Carbon nitrogen co infiltration",
+              "featureUtility": "Carbonitriding is a thermochemical surface quenching process, and its subsequent quenching steps are similar to surface quenching. During this process, the surface layer of the material is also rich in nitrogen. The temperature of carbon nitrogen co infiltration is lower than the temperature used in surface hardening. This reduces the risk of distortion. Can achieve higher surface hardness, especially for non-alloy steel and low alloy steel",
+              "name": "nitriding"
+            }
+          ],
+          "finishingName": "Surface heat treatment",
+          "name": "Surface"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Black colored size , accuracy , Improve corrosion resistance performance , beautiful",
+              "featureName": "Polishing",
+              "featureUtility": "Polishing is a chemical surface treatment used to form a weak protective layer on the surface of black metals. Polishing is not a coating. Due to chemical processes, the material will turn black",
+              "name": "laser"
+            },
+            {
+              "featureCharacter": "Capable of polishing complex parts, efficient, Improve corrosion resistance performance",
+              "featureName": "Electrolytic polishing",
+              "featureUtility": "The polished workpiece is used as the anode, the insoluble metal is the cathode, and the two poles are immersed in the electrolytic cell at the same time, and the selective anode dissolution is generated by direct current, so as to achieve the effect of increasing the brightness of the workpiece surface.",
+              "name": "polishing"
+            },
+            {
+              "featureCharacter": "Low cost, efficient, Suitable for mass production with low precision",
+              "featureName": "Silk screen printing",
+              "featureUtility": "The pattern engraved on the steel plate is transferred to the workpiece through the role of the rubber head, and the ink permeates from the mesh of the screen plate to the product through the pressure of the rubber scraper to form the pattern.",
+              "name": "wire"
+            },
+            {
+              "featureCharacter": "Fast marking speed, beautiful, Never wear out, High speed and speed, low cost",
+              "featureName": "Laser carving",
+              "featureUtility": "Using a high-intensity focused laser beam emitted by a laser at the focal point to oxidize the material and process it",
+              "name": "Laser carving"
+            },
+            {
+              "featureCharacter": "Surface strengthening , beautiful, high efficiency",
+              "featureName": "Sandblasting",
+              "featureUtility": "Sandblasting uses compressed air as the power to form a high-speed jet beam, which sprays abrasive at high speed onto the surface of the workpiece to be treated, causing physical changes to the outer surface of the workpiece",
+              "name": "sandblasting"
+            },
+            {
+              "featureCharacter": " Surface strengthening, high strength, Corrosion resistance, smooth surface",
+              "featureName": "wire drawing",
+              "featureUtility": "A method of improving the surface smoothness of a workpiece by using the reciprocating motion of a drawn cloth strip and rubbing it back and forth on the surface of the workpiece, with a linear texture on the surface",
+              "name": "electrolytic"
+            }
+          ],
+          "finishingName": "Other",
+          "name": "Other"
+        }
+      ],
+      "materials": [
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "铝"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "铜"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "塑料"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "塑料"
+        }
+      ],
+      "materialsInfo_ch": [
+        {
+          "finishing": [
+            "喷粉",
+            "喷涂特氟龙",
+            "阳极氧化",
+            "镀镍",
+            "抛光",
+            "电解抛光",
+            "丝印",
+            "喷砂"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-易加工-耐腐蚀-焊接性良好",
+              "featureName": "MIC-6",
+              "featureUtility": "用于飞机零件、照相机镜头、耦合器、船舶配件等",
+              "image": "MIC-6",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-焊接性良好",
+              "featureName": "铝合金 2A12",
+              "featureUtility": "用于飞机骨架、机身, 汽车车身、发动机等",
+              "image": "2A12",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7075",
+              "featureCharacter": "高强度-耐腐蚀-加工性能极佳-机械性能良好",
+              "featureName": "7075 铝",
+              "featureUtility": "用于航空航天、模具加工、机械设备、工装夹具",
+              "image": "7075",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6061",
+              "featureCharacter": "高强度-耐腐蚀-高韧性-焊接性良好",
+              "featureName": "6061铝",
+              "featureUtility": "用于建筑结构、汽车部件等",
+              "image": "6061",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6082",
+              "featureCharacter": "耐腐蚀-焊接性、导热性良好",
+              "featureName": "铝合金 6082",
+              "featureUtility": "用于交通运输和结构工程工业",
+              "image": "6082",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6060",
+              "featureCharacter": "耐腐蚀-不受气候影响",
+              "featureName": "6060铝",
+              "featureUtility": "用于灯饰、家具、地板等对强度无特殊要求的工程应用",
+              "image": "6060",
+              "pricingRange": "3$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2007/2030|AlCuMgPb",
+              "featureCharacter": "耐腐蚀-不受气候影响",
+              "featureName": "铝合金2007/2030",
+              "featureUtility": "用于飞机零部件、齿轮和轴、熔丝零件、仪表轴和齿轮等",
+              "image": "2007_2030",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2017|AlCuMg1",
+              "featureCharacter": "耐腐蚀-不受气候影响",
+              "featureName": "铝合金2017",
+              "featureUtility": "用于铆钉、通用机械零件、运输工具结构件等",
+              "image": "2017",
+              "pricingRange": "2$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-5083|AlMg4, 5Mn0, 7",
+              "featureCharacter": "耐腐蚀-天然硬质-焊接性良好-不受气候影响",
+              "featureName": "铝合金 5083",
+              "featureUtility": "用于汽车、飞机焊接件、钻探设备等",
+              "image": "5083",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-5754|AlMg3",
+              "featureCharacter": "耐腐蚀-天然硬质-焊接性良好",
+              "featureName": "铝合金 5754",
+              "featureUtility": "用于焊接结构、贮槽、压力容器等",
+              "image": "5754",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7019|AlZn4Mg2Mn",
+              "featureCharacter": "高强度-耐腐蚀",
+              "featureName": "铝合金7019",
+              "featureUtility": "用于 航天航空工业、吹塑（瓶）模、超声波塑焊模具等",
+              "image": "7019",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "nEN AW-7021|AlZn5, 5Mg1, 5",
+              "featureCharacter": "高强度-耐腐蚀",
+              "featureName": "铝合金 7021",
+              "featureUtility": "用于制造航空器材、日常生活用品、建筑用门窗等",
+              "image": "7021",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            }
+          ],
+          "materialName": "铝",
+          "name": "Aluminum"
+        },
+        {
+          "finishing": [
+            "喷粉",
+            "镀锌",
+            "镀锡",
+            "镀镍",
+            "发黑",
+            "磷化",
+            "退火",
+            "淬火",
+            "回火",
+            "渗氮",
+            "碳氮共渗",
+            "抛光",
+            "喷砂"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "DIN S235JR",
+              "featureCharacter": "韧性-塑性-焊接性较好",
+              "featureName": "Q235A",
+              "featureUtility": "用于各种焊接结构件、普通机械零件等",
+              "image": "Q235A",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-易切削加工",
+              "featureName": "C45",
+              "featureUtility": "用于强度要求较高的零件, 如齿轮、轴、活塞销等",
+              "image": "C45",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "钢 1.2080|DIN x210Cr12",
+              "featureCharacter": "淬透性较好-耐磨性良好",
+              "featureName": "Cr12",
+              "featureUtility": "用于高耐磨的冷冲模及冲头 、冷切剪刀、钻套等",
+              "image": "Cr12",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN 10084-2008",
+              "featureCharacter": "淬透性-切削性较好",
+              "featureName": "16CrMnH",
+              "featureUtility": "经渗碳淬火后使用, 主要用于制造齿轮、蜗杆、密封轴套等",
+              "image": "16CrMnH",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN 683-2-2018 ",
+              "featureCharacter": "高强度-韧性-淬透性较好",
+              "featureName": "42CrMoS4",
+              "featureUtility": "用于机车牵引用的大齿轮、增压器传动齿轮、载荷极大的连杆等",
+              "image": "42CrMoS4",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN 10277-3-1999",
+              "featureCharacter": "高强度-高硬度-加工性能良好",
+              "featureName": "11SMn309SMn29",
+              "featureUtility": "用于机械制造、自动化设备和高精度零件制造等",
+              "image": "11SMn30",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN 10025-2",
+              "featureCharacter": "耐腐蚀-高强度-韧性-塑性-焊接性良好",
+              "featureName": "S355J2G3",
+              "featureUtility": "用于重型机械设备、矿山机械",
+              "image": "S355J2G3",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN 10025",
+              "featureCharacter": "高强度-耐腐蚀-高屈服强度-高抗拉强度",
+              "featureName": "S355JRSt 52",
+              "featureUtility": "用于支撑结构、船舶外壳、船用设备等",
+              "image": "S355JR",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN 10277-2018",
+              "featureCharacter": "高耐磨性-加工性能良好",
+              "featureName": "11SMnPb379SMnPb36",
+              "featureUtility": "用于自动化设备、车辆、机床、电子设备和航空航天设备制造等",
+              "image": "11SMnPb37",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN-10132-4",
+              "featureCharacter": "高强度-高硬度-高弹性",
+              "featureName": "C60E1.1221",
+              "featureUtility": "用于制造需要高强度、硬度和耐磨性的机械零件, 例如轴、销、齿轮、螺栓等",
+              "image": "C60E",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "DIN S235JRG1",
+              "featureCharacter": "高强度-高韧性-加工性能优异",
+              "featureName": "Q235B",
+              "featureUtility": "用于船舶、车辆结构件、制造各种工具、 刃具 、模具和量具等",
+              "image": "Q235B",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-高硬度-耐磨性-热加工性能良好",
+              "featureName": "高碳铬轴承钢GCr15",
+              "featureUtility": "用于制造内燃机、电机车、机床、钻探机、以及矿山机械等传动轴上的钢球、滚子和轴套等",
+              "image": "GCr15",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            }
+          ],
+          "materialName": "钢",
+          "name": "steel"
+        },
+        {
+          "finishing": [
+            "喷粉",
+            "镀锌",
+            "镀镍",
+            "发黑",
+            "抛光",
+            "拉丝"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN 316Ti|X6CrNiMoTi17-12-2 ",
+              "featureCharacter": "耐腐蚀, 机械加工性能良好, 注：不能通过热处理硬化",
+              "featureName": "不锈钢 1.4571",
+              "featureUtility": "用于制造焊接部件等",
+              "image": "1.4571",
+              "pricingRange": "5$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN X5CrNi18-10",
+              "featureCharacter": " 耐热, 耐腐蚀, 耐低温, 机械加工性能良好",
+              "featureName": "不锈钢 1.4301",
+              "featureUtility": "用于食品用设备, 一般化工设备, 原子能工业等",
+              "image": "1.4301",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X8CrNiS18-9",
+              "featureCharacter": " 非磁性, 机械加工性能优异, 注：耐腐蚀性低不可焊接",
+              "featureName": "不锈钢 1.4305",
+              "featureUtility": "用于机械加工",
+              "image": "1.4305",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN X90CrMoV18",
+              "featureCharacter": " 可磁化, 耐腐蚀, 机械加工性能优异",
+              "featureName": "不锈钢 1.4305",
+              "featureUtility": "用于刀具、机械零部件、化工设备、医疗器械制造等",
+              "image": "1.4305",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X14CrMoS17",
+              "featureCharacter": " 可磁化, 耐腐蚀, 机械加工性能优异",
+              "featureName": "不锈钢 1.4104",
+              "featureUtility": "用于制造各种机器零件",
+              "image": "1.4104",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X6CrNiMoTi17-12-2",
+              "featureCharacter": " 非磁性, 耐热, 焊接性良好, 1150°下具有良好的强度性能, 650°下具有良好的耐腐蚀性",
+              "featureName": "不锈钢1.4841",
+              "featureUtility": "用于石油、天然气和化工行业中的高温设备",
+              "image": "1.4841",
+              "pricingRange": "5$",
+              "productionPriceRange": "5$"
+            },
+            {
+              "featureAlternativeName": "EN X5CrNiCuNb16-4",
+              "featureCharacter": " 可硬化, 耐腐蚀, 硬度良好",
+              "featureName": "不锈钢1.4542",
+              "featureUtility": "用于制造医疗部件、一般机械、汽车仪器等",
+              "image": "1.4542",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN X2CrNiMo17-12-2",
+              "featureCharacter": " 耐腐蚀, 可焊接性良好",
+              "featureName": "不锈钢 1.4404",
+              "featureUtility": "用于化学工业",
+              "image": "1.4404",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN X17CrNi16-2",
+              "featureCharacter": " 高强度, 耐腐蚀, 焊接性良好",
+              "featureName": "不锈钢 1.4057",
+              "featureUtility": "用于制造高强度、韧性和耐蚀性的零部件, 及潮湿环境中工作的承力部件",
+              "image": "1.4057",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X20Cr13",
+              "featureCharacter": " 耐腐蚀, 高耐磨性, 机械加工性能优异",
+              "featureName": "不锈钢420",
+              "featureUtility": "用于化学工业、食品加工设备等",
+              "image": "420",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN X6Cr17",
+              "featureCharacter": " 耐腐蚀, 导热性能良好",
+              "featureName": "不锈钢430",
+              "featureUtility": "用于燃油、烧嘴部件、家庭用器具、家电部件",
+              "image": "430",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN X5CrNiMo17-12-2",
+              "featureCharacter": "  耐腐蚀, 耐高温",
+              "featureName": "不锈钢316",
+              "featureUtility": "用于螺栓、螺母、水下设备、化学、染料等生产设备",
+              "image": "316",
+              "pricingRange": "2$",
+              "productionPriceRange": "32$"
+            }
+          ],
+          "materialName": "不锈钢",
+          "name": "stainless-steel"
+        },
+        {
+          "finishing": [
+            "发黑",
+            "退火",
+            "淬火",
+            "回火",
+            "抛光"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "C45U",
+              "featureCharacter": "耐磨, 机械加工性能良好",
+              "featureName": "1.173",
+              "featureUtility": "用于需要坚硬表面和坚韧芯材的应用",
+              "image": "1.173",
+              "pricingRange": "2$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "X40Cr14",
+              "featureCharacter": "耐磨",
+              "featureName": "1.2083",
+              "featureUtility": "用于制造腐蚀性塑料的模具",
+              "image": "1.2083",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "115CrV3",
+              "featureCharacter": "易加工, 耐磨, 高强度, 高硬度",
+              "featureName": "1.221",
+              "featureUtility": "用于强度、硬度要求较高的部件",
+              "image": "1.221",
+              "pricingRange": "4$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "40CrMnMoS8-6",
+              "featureCharacter": "氮化性能良好, 机械加工性能良好, 耐磨, 注：抛光性和蚀刻性有限",
+              "featureName": "1.2312",
+              "featureUtility": "用于工具和模具制造",
+              "image": "1.2312",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": " X153CrMoV12",
+              "featureCharacter": "高耐磨性, 高强度, 高硬度",
+              "featureName": "1.2379",
+              "featureUtility": "用于制造工具",
+              "image": "1.2379",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": " 90MnCrV8",
+              "featureCharacter": "高耐磨性, 高硬度",
+              "featureName": "1.2842",
+              "featureUtility": "用于包括模具、冲压工具、拉丝冲头、拉刀、衬套、车床、卡盘爪",
+              "image": "1.2842",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": " 100Cr6",
+              "featureCharacter": "高耐磨性, 高硬度",
+              "featureName": "1.3505",
+              "featureUtility": "用于机械工程中易磨损的零件",
+              "image": "1.3505",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            }
+          ],
+          "materialName": "工具钢",
+          "name": "tool"
+        },
+        {
+          "finishing": [
+            "喷砂",
+            "喷涂特氟龙",
+            "镭雕"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 尺寸稳定性优异, 电绝缘性能良好, 机械加工性良好, 吸水率低, 不适合滑动应用",
+              "featureName": "PC 聚碳酸酯",
+              "featureUtility": "用于制造大型灯罩、防护玻璃、光学仪器的左右目镜筒等",
+              "image": "PC",
+              "pricingRange": "4$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 机械性能优异, 滑动性能优异, 抗蠕变性良好, 机械加工性优异",
+              "featureName": "POM 聚甲醛",
+              "featureUtility": "用于干摩擦应用",
+              "image": "POM",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 高硬度, 高透明度",
+              "featureName": "亚克力",
+              "featureUtility": "用于亚克力灯箱、广告招牌等",
+              "image": "Acrylic",
+              "pricingRange": "3$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "耐化学性良好, 电绝缘性能优异",
+              "featureName": "PP-H 聚丙烯",
+              "featureUtility": "用于医疗器械、汽车、自行车、零件、输送管道、化工容器等",
+              "image": "PP-H",
+              "pricingRange": "1$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "阻尼性能良好, 机械性能良好, 滑动性能良好, 高耐磨性",
+              "featureName": "PA6 聚酰胺",
+              "featureUtility": "用于制造具有动态载荷的结构和滑动元件",
+              "image": "PA6",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 耐化学性优异, 阻尼性能良好, 电绝缘性能优异, 可在低至 -270 °C 的温度下使用",
+              "featureName": "PE-1000/PE-UHMW 聚乙烯",
+              "featureUtility": "用于超低温范围(-200°C 至 -270°C)的应用",
+              "image": "PE-1000_PE-UHMW",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "非常高的机械强度, 非常高的表面硬度, 耐磨性优异, 高热负荷能力, 耐化学性优异, 抗辐射性良好, 机械加工性良好",
+              "featureName": "PEEK 聚醚醚酮",
+              "featureUtility": "用于机械强度、刚度和耐温性要求高的应用",
+              "image": "PEEK",
+              "pricingRange": "5$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "阻尼性能良好, 耐化学性优异, 电绝缘性能优异, 适用温度高达-50°C",
+              "featureName": "PE-HD 聚乙烯",
+              "featureUtility": "用于机械、电力、化工等行业",
+              "image": "PE-HD",
+              "pricingRange": "1$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "耐化学性良好, 高韧性, 非常高的强度, 高刚度, 焊接和粘接性能良好, 滑动和摩擦性能良好, 机械加工性良好, 增强的紫外线防护（PET黑）",
+              "featureName": "PET 白/黑色",
+              "featureUtility": "用于做纤维、薄膜、工程塑料、聚酯瓶等",
+              "image": "PET",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "不易燃, 耐化学性优异, 耐光、耐候和耐辐射, 电绝缘性能良好",
+              "featureName": "PVDF 聚偏二氟乙烯",
+              "featureUtility": "用于绕线电路的细30号线以及印刷电路板常用PVDF绝缘",
+              "image": "PVDF",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "耐化学性优异, 滑动性能优异, 耐光、耐候、耐辐射, 不易燃, 电绝缘性能优异",
+              "featureName": "PTFE 聚四氟乙烯",
+              "featureUtility": "用于耐腐蚀管道、管件、波纹管、泵体、阀门和各类标准设备的耐腐蚀衬里首选材料",
+              "image": "PTFE",
+              "pricingRange": "4$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "滑动性能良好, 耐化学性优异, 电绝缘性能优异",
+              "featureName": "PVC-U 聚氯乙烯",
+              "featureUtility": "用于管道、电缆绝缘、地板、标牌、留声机唱片、充气产品和橡胶替代品",
+              "image": "PVC-U",
+              "pricingRange": "5$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 耐化学性优异, 高强度, 高硬度, 热性能优异, 高抗蠕变性",
+              "featureName": "PPS GF40",
+              "featureUtility": "用于化工设备、食品加工、半导体、电气绝缘和电子工业",
+              "image": "PPS-GF40",
+              "pricingRange": "5$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 阻尼性能良好, 机械性能优异, 耐热性良好, 不适合滑动应用, 机械加工性良好",
+              "featureName": "PA66 GF30",
+              "featureUtility": "与未增强的 PA 相比, 具有更好的机械和热性能",
+              "image": "PA66-GF30",
+              "pricingRange": "3$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 滑动性能良好, 电导率, 防止静电荷, 机械性能优异, 抗蠕变性良好, 机械加工性优异",
+              "featureName": "POM-C ESD",
+              "featureUtility": "用于半导体和电子制造设备的组件",
+              "image": "POM-C-ESD",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            }
+          ],
+          "materialName": "塑料",
+          "name": "plastic"
+        },
+        {
+          "finishing": [
+            "喷砂",
+            "抛光"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "DIN CuZn40",
+              "featureCharacter": "高强度, 高硬度, 塑性良好",
+              "featureName": "黄铜H62",
+              "featureUtility": "用于各种深拉深和弯折制造的受力零件",
+              "image": "H62",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "C10200",
+              "featureCharacter": "纯度高, 导电、导热性优异, 耐腐蚀性较好",
+              "featureName": "无氧铜TU2",
+              "featureUtility": "用于电真空器件和仪器、仪表",
+              "image": "TU2",
+              "pricingRange": "$",
+              "productionPriceRange": "$"
+            },
+            {
+              "featureAlternativeName": "C11000",
+              "featureCharacter": "导电、导热性较好, 耐腐蚀性较好",
+              "featureName": "紫铜T2",
+              "featureUtility": "用于导电、导热、耐蚀器材",
+              "image": "T2",
+              "pricingRange": "$",
+              "productionPriceRange": "$"
+            },
+            {
+              "featureAlternativeName": "DIN CuZn39Pb3",
+              "featureCharacter": "滑动性能优异, 非常耐腐蚀, 机械加工性优异",
+              "featureName": "HPb58-2.5Ms58 (青铜)",
+              "featureUtility": "用于机械加工等",
+              "image": "HPb58-2.5",
+              "pricingRange": "3$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "DIN ECu58",
+              "featureCharacter": "高导电性, 非常耐腐蚀, 导热性能优异",
+              "featureName": "Cu-ETP CW004A (电解精炼含氧铜)",
+              "featureUtility": "用于火花腐蚀的电极和电池系统中的连接元件",
+              "image": "Cu-ETP-CW004A",
+              "pricingRange": "4$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "CuSn4Pb4Zn4",
+              "featureCharacter": "耐磨性较好, 耐腐蚀性较好, 可加工性良好",
+              "featureName": "锡青铜QSn4-4-4",
+              "featureUtility": "用于船舶、化工和机械等领域",
+              "image": "QSn4-4-4",
+              "pricingRange": "$",
+              "productionPriceRange": "$"
+            },
+            {
+              "featureAlternativeName": "EN 1982-2008",
+              "featureCharacter": "滑动性能优异, 非常耐腐蚀, 耐磨",
+              "featureName": "CuSn12 CC483K (青铜)",
+              "featureUtility": "用以机床主轴轴承, 精密机床或零部件",
+              "image": "CuSn12",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN 1982-2017",
+              "featureCharacter": "滑动性能优异, 非常耐腐蚀, 紧急运行性能优异, 机械加工性较好",
+              "featureName": "CuSn7Zn4Pb7 Rg7 (青铜)",
+              "featureUtility": "用于机械工程的滑动轴承和轴承衬套",
+              "image": "CuSn7Zn4Pb7",
+              "pricingRange": "4$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "DIN EN 12163-2016",
+              "featureCharacter": "滑动性能良好, 非常耐腐蚀, 弹簧性能较好, 耐磨",
+              "featureName": "CuSn8 CW453K (青铜)",
+              "featureUtility": "用于制造在中等载荷和中等滑动速度下的耐磨零件和结构零件",
+              "image": "CuSn8",
+              "pricingRange": "4$",
+              "productionPriceRange": "3$"
+            }
+          ],
+          "materialName": "铜",
+          "name": "copper"
+        },
+        {
+          "finishing": [
+            "喷砂"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN-GJL-250",
+              "featureCharacter": "导热性良好, 耐磨性优异",
+              "featureName": "铸铁 0.6025",
+              "featureUtility": "--",
+              "image": "0.6025",
+              "pricingRange": "4$",
+              "productionPriceRange": "2$"
+            }
+          ],
+          "materialName": "铸铁",
+          "name": "hierro"
+        }
+      ],
+      "materialsInfo_en": [
+        {
+          "finishing": [
+            "Powder spray painting",
+            "Spraying Teflon",
+            "Oxidation",
+            "Nickel Plating",
+            "Polishing",
+            "Electrolytic polishing",
+            "Silk screen printing",
+            "Sandblasting"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High strength, easy to process, corrosion-resistant, good weldability",
+              "featureName": "MIC-6",
+              "featureUtility": "Used in aircraft parts, camera lenses, couplings, naval components, etc.",
+              "image": "MIC-6",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High strength, good weldability",
+              "featureName": "Aluminum alloy 2A12",
+              "featureUtility": "Used in aircraft frames, fuselages, automotive bodies, engines, etc.",
+              "image": "2A12",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7075",
+              "featureCharacter": "High strength, corrosion-resistant, excellent machinability, good mechanical performance",
+              "featureName": "7075 Aluminum",
+              "featureUtility": "Used in aerospace, mold processing, mechanical equipment, tooling and fixtures",
+              "image": "7075",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6061",
+              "featureCharacter": "High strength, corrosion-resistant, high toughness, good weldability",
+              "featureName": "6061 Aluminum",
+              "featureUtility": "Used in building structures, automotive parts, etc.",
+              "image": "6061",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6082",
+              "featureCharacter": "Corrosion-resistant, good weldability and thermal conductivity",
+              "featureName": "Aluminum alloy 6082",
+              "featureUtility": "Used in transportation and structural engineering industries",
+              "image": "6082",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6060",
+              "featureCharacter": "Corrosion-resistant, unaffected by weather",
+              "featureName": "6060 Aluminum",
+              "featureUtility": "Used in engineering applications with no special strength requirements, such as lighting, furniture, flooring, etc.",
+              "image": "6060",
+              "pricingRange": "3$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2007/2030|AlCuMgPb",
+              "featureCharacter": "Corrosion-resistant, unaffected by weather",
+              "featureName": "Aluminum alloy 2007/2030",
+              "featureUtility": "Used in aircraft components, gears and shafts, fuse parts, instrument shafts and gears, etc.",
+              "image": "2007_2030",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2017|AlCuMg1",
+              "featureCharacter": "Corrosion-resistant, unaffected by weather",
+              "featureName": "Aluminum alloy 2017",
+              "featureUtility": "Used in rivets, general mechanical parts, structural parts of transport tools, etc.",
+              "image": "2017",
+              "pricingRange": "2$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "nEN AW-5083|AlMg4, 5Mn0, 7",
+              "featureCharacter": "Corrosion-resistant, naturally hard, good weldability, unaffected by weather",
+              "featureName": "Aluminum alloy 5083",
+              "featureUtility": "Used in automotive, aircraft welding parts, drilling equipment, etc.",
+              "image": "5083",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-5754|AlMg3",
+              "featureCharacter": "Corrosion-resistant, naturally hard, good weldability",
+              "featureName": "Aluminum alloy 5754",
+              "featureUtility": "Used in welded structures, storage tanks, pressure vessels, etc.",
+              "image": "5083",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7019|AlZn4Mg2Mn",
+              "featureCharacter": "High strength, corrosion-resistant",
+              "featureName": "Aluminum alloy 7019",
+              "featureUtility": "Used in aerospace industry, blow molding (bottle) molds, ultrasonic plastic welding molds, etc.",
+              "image": "7019",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7021|AlZn5, 5Mg1, 5",
+              "featureCharacter": "High strength, corrosion-resistant",
+              "featureName": "Aluminum alloy 7021",
+              "featureUtility": "Used in manufacturing aircraft equipment, everyday items, architectural doors and windows, etc.",
+              "image": "7021",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            }
+          ],
+          "materialName": "Aluminum",
+          "name": "Aluminum"
+        },
+        {
+          "finishing": [
+            "Powder spray painting",
+            "Galvanizing",
+            "Tin plating",
+            "Nickel Plating",
+            "Blackening",
+            "Phosphating",
+            "Annealing",
+            "Quenching",
+            "Tempering",
+            "Nitriding",
+            "Carbon nitrogen co infiltration",
+            "Polishing",
+            "Sandblasting"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Toughness, plasticity, good weldability",
+              "featureName": "Q235A",
+              "featureUtility": "Used for various welded structural components, common mechanical parts, etc.",
+              "image": "Q235A",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High strength, easy to cut",
+              "featureName": "C45",
+              "featureUtility": "Used for parts requiring high strength, such as gears, shafts, piston pins, etc.",
+              "image": "C45",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "Steel 1.2080|DIN x210Cr12",
+              "featureCharacter": "Good quenching ability, good wear resistance",
+              "featureName": "Cr12",
+              "featureUtility": "Used for highly wear-resistant cold punching dies and punches, cold cutting scissors, drill bushes, etc.",
+              "image": "Cr12",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "DIN EN-10084-2008",
+              "featureCharacter": "Quenching ability, good machinability",
+              "featureName": "16CrMnH",
+              "featureUtility": "Used after carburizing and quenching, mainly used for manufacturing gears, worms, seal sleeves, etc.",
+              "image": "16CrMnH",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-ISO 683-2-2018",
+              "featureCharacter": "High strength, toughness, good quenching ability",
+              "featureName": "42CrMoS4",
+              "featureUtility": "Used for locomotive traction large gears, turbocharger transmission gears, heavily loaded connecting rods, etc.",
+              "image": "42CrMoS4",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-10277-3-1999",
+              "featureCharacter": "High strength, high hardness, good machinability",
+              "featureName": "11SMn309SMn29",
+              "featureUtility": "Used for mechanical manufacturing, automation equipment, and high-precision parts manufacturing, etc.",
+              "image": "11SMn30",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN-10025-2",
+              "featureCharacter": "Corrosion-resistant, high strength, toughness, plasticity, good weldability",
+              "featureName": "S355J2G3",
+              "featureUtility": "Used for heavy-duty mechanical equipment, mining machinery, etc.",
+              "image": "S355J2G3",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN-10025",
+              "featureCharacter": "High strength, corrosion-resistant, high yield strength, high tensile strength",
+              "featureName": "S355JR St 52",
+              "featureUtility": "Used for support structures, ship hulls, ship equipment, etc.",
+              "image": "S355JR",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN-10277-2018",
+              "featureCharacter": "High wear resistance, good machinability",
+              "featureName": "11SMnPb379SMnPb36",
+              "featureUtility": "Used for the manufacture of automation equipment, vehicles, machine tools, electronic equipment, and aerospace equipment, etc.",
+              "image": "11SMnPb37",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN-10277-2018EN-10132-4",
+              "featureCharacter": "High strength, high hardness, high elasticity",
+              "featureName": "C60E1.1221",
+              "featureUtility": "Used for manufacturing machinery parts requiring high strength, hardness, and wear resistance, such as shafts, pins, gears, bolts, etc.",
+              "image": "C60E",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-S235JRDIN St 37",
+              "featureCharacter": "High strength, high toughness, excellent machinability",
+              "featureName": "Q235B",
+              "featureUtility": "Used for ship, vehicle structural parts, manufacturing various tools, blades, molds and gauges, etc.",
+              "image": "Q235B",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "",
+              "featureCharacter": "High strength, high hardness, wear resistance, good hot working performance",
+              "featureName": "High carbon chromium bearing Steel GCr15",
+              "featureUtility": "Used for steel balls, rollers, and shaft sleeves on drive shafts in internal combustion engines, motor vehicles ,etc.",
+              "image": "GCr15",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            }
+          ],
+          "materialName": "Steel",
+          "name": "steel"
+        },
+        {
+          "finishing": [
+            "Powder spray painting",
+            "Galvanizing",
+            "Nickel plating",
+            "Blackening",
+            "Polishing",
+            "Wire drawing"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN 316Ti",
+              "featureCharacter": "Corrosion-resistant, good machinability, note: not hardenable by heat treatment",
+              "featureName": "Stainless steel 1.4571",
+              "featureUtility": "Used for manufacturing welded parts, etc.",
+              "image": "1.4571",
+              "pricingRange": "5$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-X5CrNi18-10",
+              "featureCharacter": "Heat-resistant, corrosion-resistant, low-temperature resistant, good machinability",
+              "featureName": "Stainless steel 1.4301",
+              "featureUtility": "Used for food equipment, general chemical equipment, nuclear industry, etc.",
+              "image": "1.4301",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X8CrNiS18-9",
+              "featureCharacter": "Non-magnetic, excellent machinability, note, low corrosion resistance and cannot be welded",
+              "featureName": "Stainless steel 1.4305",
+              "featureUtility": "Used in machining",
+              "image": "1.4305",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN-X90CrMoV18",
+              "featureCharacter": "Can be magnetized, corrosion-resistant, excellent machinability",
+              "featureName": "Stainless steel 1.4112",
+              "featureUtility": "Used for tool manufacturing, mechanical components, chemical equipment, medical device manufacturing, etc.",
+              "image": "1.4112",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X14CrMoS17",
+              "featureCharacter": "Can be magnetized, corrosion-resistant, excellent machinability",
+              "featureName": "Stainless steel 1.4104",
+              "featureUtility": "Used for manufacturing various machine parts",
+              "image": "1.4104",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X6CrNiMoTi17-12-2",
+              "featureCharacter": "Non-magnetic, heat-resistant, good welding performance, good strength performance at 1150°C, good corrosion resistance at 650°C, ",
+              "featureName": "Stainless steel 1.4841",
+              "featureUtility": "Used for high-temperature equipment in the petroleum, natural gas, and chemical industries",
+              "image": "1.4841",
+              "pricingRange": "5$",
+              "productionPriceRange": "5$"
+            },
+            {
+              "featureAlternativeName": "EN-X5CrNiCuNb16-4",
+              "featureCharacter": "Hardenable, corrosion-resistant, good hardness",
+              "featureName": "Stainless steel 1.4542",
+              "featureUtility": "Used for manufacturing medical parts, general machinery, automotive instruments, etc.",
+              "image": "1.4542",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-X2CrNiMo17-12-2",
+              "featureCharacter": "Corrosion resistant, good weldability",
+              "featureName": "Stainless steel 1.4404",
+              "featureUtility": "Used in the chemical industry",
+              "image": "1.4404",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-X17CrNi16-2",
+              "featureCharacter": "High strength, corrosion-resistant, good weldability",
+              "featureName": "Stainless steel 1.4057",
+              "featureUtility": "Used for manufacturing high-strength, tough and corrosion-resistant components, and load-bearing components working in humid environments",
+              "image": "1.4057",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X20Cr13",
+              "featureCharacter": "Corrosion-resistant, high wear resistance, excellent machinability",
+              "featureName": "Stainless steel 420",
+              "featureUtility": "Used for chemical industry, food processing equipment, etc.",
+              "image": "420",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X6Cr17",
+              "featureCharacter": "Corrosion-resistant, good thermal conductivity",
+              "featureName": "Stainless steel 430",
+              "featureUtility": "Used for fuel, burner components, household appliances, home appliance components",
+              "image": "430",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X5CrNiMo17-12-2",
+              "featureCharacter": "Corrosion-resistant, high temperature resistant",
+              "featureName": "Stainless steel 316",
+              "featureUtility": "Used for bolts, nuts, underwater equipment, chemical, dye production equipment, etc.",
+              "image": "316",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            }
+          ],
+          "materialName": "Stainless steel",
+          "name": "stainless-steel"
+        },
+        {
+          "finishing": [
+            "Blackening",
+            "Annealing",
+            "Quenching",
+            "Tempering",
+            "Polishing"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "C45U",
+              "featureCharacter": "Wear-resistant, good machinability",
+              "featureName": "1.173",
+              "featureUtility": "Used for applications requiring a hard surface and tough core material",
+              "image": "1.173",
+              "pricingRange": "2",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "X40Cr14",
+              "featureCharacter": "Wear-resistant",
+              "featureName": "1.2083",
+              "featureUtility": "Used for manufacturing molds for corrosive plastics",
+              "image": "1.2083",
+              "pricingRange": "3",
+              "productionPriceRange": "4"
+            },
+            {
+              "featureAlternativeName": "115CrV3",
+              "featureCharacter": "Easy to machine, wear-resistant, high strength, high hardness",
+              "featureName": "1.221",
+              "featureUtility": "Used for components with high strength and hardness requirements",
+              "image": "1.221",
+              "pricingRange": "4",
+              "productionPriceRange": "2"
+            },
+            {
+              "featureAlternativeName": "40CrMnMoS8-6",
+              "featureCharacter": "Good nitriding performance, good machinability, wear-resistant, Note: limited polishability and etchability",
+              "featureName": "1.2312",
+              "featureUtility": "Used for tool and mold manufacturing",
+              "image": "1.2312",
+              "pricingRange": "3",
+              "productionPriceRange": "3"
+            },
+            {
+              "featureAlternativeName": "X153CrMoV12",
+              "featureCharacter": "High wear resistance, high strength, high hardness",
+              "featureName": "1.2379",
+              "featureUtility": "Used for tool manufacturing",
+              "image": "1.2379",
+              "pricingRange": "4",
+              "productionPriceRange": "4"
+            },
+            {
+              "featureAlternativeName": "90MnCrV8",
+              "featureCharacter": "High wear resistance, high hardness",
+              "featureName": "1.2842",
+              "featureUtility": "Used for molds, stamping tools, wire drawing dies, knives, bushings, lathes, chuck jaws",
+              "image": "1.2842",
+              "pricingRange": "3",
+              "productionPriceRange": "4"
+            },
+            {
+              "featureAlternativeName": "100Cr6",
+              "featureCharacter": "High wear resistance, high hardness",
+              "featureName": "1.3505",
+              "featureUtility": "Used for parts in mechanical engineering prone to wear",
+              "image": "1.3505",
+              "pricingRange": "3",
+              "productionPriceRange": "3"
+            }
+          ],
+          "materialName": "Tool Steel",
+          "name": "tool"
+        },
+        {
+          "finishing": [
+            "Sandblasting",
+            "Spraying Teflon",
+            "Laser carving"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent dimensional stability, good electrical insulation performance, good machinability, low water absorption, not suitable for sliding applications",
+              "featureName": "PC Polycarbonate",
+              "featureUtility": "Used for manufacturing large lampshades, protective glass, left and right eyepiece barrels of optical instruments, etc.",
+              "image": "PC",
+              "pricingRange": "4",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent mechanical performance, excellent sliding performance, good creep resistance, excellent machinability",
+              "featureName": "POM Polyoxymethylene",
+              "featureUtility": "Used for dry friction applications",
+              "image": "POM",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High hardness, High transparency",
+              "featureName": "Acrylic",
+              "featureUtility": "Used for acrylic lightboxes, advertising signs, etc",
+              "image": "Acrylic",
+              "pricingRange": "3",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good chemical resistance, Excellent electrical insulation performance",
+              "featureName": "PP-H polypropylene",
+              "featureUtility": "Used for medical devices, cars, bicycles, parts, conveying pipelines, chemical containers, etc",
+              "image": "PP-H",
+              "pricingRange": "1",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good damping performance, Good mechanical performance, Good sliding performance, High wear resistance",
+              "featureName": "PA6 polyamide",
+              "featureUtility": "Used for manufacturing structures and sliding components with dynamic loads",
+              "image": "PA6",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent chemical resistance, Good damping performance, Excellent electrical insulation performance, Can be used at temperatures as low as -270 ° C",
+              "featureName": "PE-1000/PE-UHMW polyethylene",
+              "featureUtility": "For applications in the ultra-low temperature range (-200 ° C to -270 ° C)",
+              "image": "PE-1000_PE-UHMW",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Extremely high mechanical strength, Very high surface hardness, Excellent wear resistance, High heat load capacity, Excellent chemical resistance,  Good machinability",
+              "featureName": "PEEK polyetheretherketone",
+              "featureUtility": "For applications with high requirements for mechanical strength, stiffness, and temperature resistance",
+              "image": "PEEK",
+              "pricingRange": "5",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good damping performance, Excellent chemical resistance, Excellent electrical insulation performance, Suitable for temperatures up to -50 ° C",
+              "featureName": "PE-HD polyethylene",
+              "featureUtility": "Used in mechanical, electrical, chemical and other industries",
+              "image": "PE-HD",
+              "pricingRange": "1",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good chemical resistance, High toughness, Very high strength, High stiffness, Good welding and bonding performance, Good sliding and friction performance, Good machinability, Enhanced UV protection (PET black)",
+              "featureName": "PET white/black",
+              "featureUtility": "Used for making fibers, films, engineering plastics, polyester bottles, etc",
+              "image": "PET",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Non flammable, Excellent chemical resistance, Light resistance, weather resistance, and radiation resistance, Good electrical insulation performance",
+              "featureName": "PVDF polyvinylidene fluoride",
+              "featureUtility": "Thin 30 wire for wire winding circuits and commonly used PVDF insulation for printed circuit boards",
+              "image": "PVDF",
+              "pricingRange": "4",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent chemical resistance, Light resistant, weather resistant, and radiation resistant, Non flammable, Excellent electrical insulation performance",
+              "featureName": "PTFE polytetra fluoroethylene",
+              "featureUtility": "The preferred material for corrosion-resistant lining in corrosion-resistant pipelines, fittings, corrugated pipes, pump bodies, valves",
+              "image": "PTFE",
+              "pricingRange": "4",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good sliding performance, Excellent chemical resistance, Excellent electrical insulation performance",
+              "featureName": "PVC-U polyvinyl chloride",
+              "featureUtility": "Used for pipeline, cable insulation, flooring, signage, phonograph records, inflatable products, and rubber substitutes",
+              "image": "PVC-U",
+              "pricingRange": "5",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent chemical resistance, high strength, High hardness, Excellent thermal performance, High resistance to creep",
+              "featureName": "PPS GF40",
+              "featureUtility": "Used in chemical equipment, food processing, semiconductors, electrical insulation, and electronics industries",
+              "image": "PPS-GF40",
+              "pricingRange": "5",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good damping performance, Excellent mechanical performance, Good heat resistance, Not suitable for sliding applications, Good machinability",
+              "featureName": "PA66 GF30",
+              "featureUtility": "Compared to unreinforced PA, it has better mechanical and thermal performance",
+              "image": "PA66-GF30",
+              "pricingRange": "3",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good sliding performance, conductivity , Prevent static charges, Excellent mechanical performance, Good anti creep properties, Excellent machinability",
+              "featureName": "POM-C ESD",
+              "featureUtility": "Components for semiconductor and electronic manufacturing equipment",
+              "image": "POM-C-ESD",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            }
+          ],
+          "materialName": "Plastic",
+          "name": "plastic"
+        },
+        {
+          "finishing": [
+            "Sandblasting",
+            "Polishing"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "DIN CuZn40",
+              "featureCharacter": "High strength, high hardness, good plasticity",
+              "featureName": "Brass H62",
+              "featureUtility": "Used for force parts manufactured by deep drawing and bending",
+              "image": "H62",
+              "pricingRange": "1",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "C10200",
+              "featureCharacter": "High purity, Excellent conductivity and thermal conductivity, Good corrosion resistance",
+              "featureName": "Oxygen free copper TU2",
+              "featureUtility": "Used for electric vacuum devices and instruments",
+              "image": "TU2",
+              "pricingRange": "",
+              "productionPriceRange": ""
+            },
+            {
+              "featureAlternativeName": "C10200",
+              "featureCharacter": "Good conductivity and thermal conductivity, Good corrosion resistance",
+              "featureName": "Purple copper T2",
+              "featureUtility": "Used for conductive, thermal, and corrosion-resistant equipment",
+              "image": "T2",
+              "pricingRange": "",
+              "productionPriceRange": ""
+            },
+            {
+              "featureAlternativeName": "DIN CuZn39Pb3",
+              "featureCharacter": "Excellent sliding performance, highly corrosion-resistant, good machinability",
+              "featureName": "CuZn39Pb3 Ms58 (bronze)",
+              "featureUtility": "Used for machining, etc.",
+              "image": "HPb58-2.5",
+              "pricingRange": "3",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "DIN-ECu58",
+              "featureCharacter": "High conductivity, highly corrosion-resistant, excellent thermal conductivity",
+              "featureName": "Cu-ETP CW004A (electrolytic tough pitch copper with oxygen refined)",
+              "featureUtility": "Used for electrodes in spark erosion and connecting elements in battery systems",
+              "image": "Cu-ETP-CW004A",
+              "pricingRange": "4",
+              "productionPriceRange": "2"
+            },
+            {
+              "featureAlternativeName": "EN CuSn4Pb4Zn4",
+              "featureCharacter": "Good wear resistance, Good corrosion resistance, Good processability",
+              "featureName": "Tin Bronze QSn4-4-4",
+              "featureUtility": "Used in fields such as ships, chemicals, and machinery.",
+              "image": "QSn4-4-4",
+              "pricingRange": "",
+              "productionPriceRange": ""
+            },
+            {
+              "featureAlternativeName": "DIN EN 1982-2008",
+              "featureCharacter": "Excellent sliding performance, highly corrosion-resistant, wear-resistant",
+              "featureName": "CuSn12 CC483K (bronze)",
+              "featureUtility": "Used for machine tool spindle bearings, precision machine tools or components",
+              "image": "CuSn12",
+              "pricingRange": "3",
+              "productionPriceRange": "2"
+            },
+            {
+              "featureAlternativeName": "EN 1982-2017",
+              "featureCharacter": "Excellent sliding performance, highly corrosion-resistant, excellent emergency operation performance, good machinability",
+              "featureName": "CuSn7Zn4Pb7 Rg7 (bronze)",
+              "featureUtility": "Used for sliding bearings and bearing linings in mechanical engineering",
+              "image": "CuSn7Zn4Pb7",
+              "pricingRange": "4",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "DIN EN 12163-2016",
+              "featureCharacter": "Good sliding performance, highly corrosion-resistant, good spring performance, wear-resistant",
+              "featureName": "CuSn8 CW453K (bronze)",
+              "featureUtility": "Used for manufacturing wear-resistant parts and structural parts under medium loads and medium sliding speeds",
+              "image": "CuSn8",
+              "pricingRange": "4",
+              "productionPriceRange": "3"
+            }
+          ],
+          "materialName": "Copper",
+          "name": "copper"
+        },
+        {
+          "finishing": [
+            "Sandblasting"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN-GJL-250",
+              "featureCharacter": "Good thermal conductivity, excellent wear resistance",
+              "featureName": "Cast Iron 0.6025",
+              "featureUtility": "--",
+              "image": "0.6025",
+              "pricingRange": "4",
+              "productionPriceRange": "2"
+            }
+          ],
+          "materialName": "Cast Iron",
+          "name": "hierro"
+        }
+      ],
+      "note": "在进行机加工表面处理时，需考虑工件的材料、使用环境、功能需求和美观性等因素，选择合适的表面处理工艺。同时，还需注意表面处理对环境的影响，尽量选择环保、低污染的工艺 。"
+    }
+  },
+  "en": {
+    "dataInfo": {
+      "Finishing": [
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "预处理"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "表面强化"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "表面涂层"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "表面处理与精饰"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1
+          ],
+          "name": "防腐蚀处理"
+        }
+      ],
+      "finishingsInfo_ch": [
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "优异的耐腐蚀性, 耐老化性, 色彩美观多样",
+              "featureName": "喷粉",
+              "featureUtility": "将粉末涂料喷涂到工件表面, 并利用静电放电现象使粉末涂层附着在工件上, 形成粉末涂层；粉末涂层经过高温烘烤、水平化和固化, 形成具有不同效果的最终涂层",
+              "name": "powder"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 美观",
+              "featureName": "喷油",
+              "featureUtility": "将油漆倒入容器, 用机械设备施加压力, 将油漆以雾状喷射到产品上, 形成油漆膜",
+              "name": "spraying"
+            },
+            {
+              "featureCharacter": "耐热性, 绝缘稳定性, 低摩擦",
+              "featureName": "喷涂特氟龙",
+              "featureUtility": "将粉末状的特氟龙材料喷涂在各种基材表面上",
+              "name": "fuel"
+            }
+          ],
+          "finishingName": "喷涂",
+          "name": "喷涂"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "耐腐蚀性, 耐磨性, 高硬度",
+              "featureName": "阳极氧化",
+              "featureUtility": "通过电解处理在铝或铝合金表面生成氧化膜的处理工艺, 经过阳极氧化处理得到薄膜",
+              "name": "anodic"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 耐磨性, 高硬度, 高温",
+              "featureName": "硬质阳极氧化",
+              "featureUtility": "把合金相应的电解质（如硫酸, 铬酸, 草酸等）作为阳极, 在一定条件下和外加电流进行电解",
+              "name": "hard-anodizing"
+            }
+          ],
+          "finishingName": "氧化",
+          "name": "氧化"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "优异的耐腐蚀性, 美观, 高硬度, 良好的高耐热性",
+              "featureName": "镀铬",
+              "featureUtility": "在镀铬过程中, 工件作为阴极, 被放置在含有铬酸盐的电解液中。通电情况下, 电解液中的铬离子在阴极表面还原成金属铬, 沉积在工件表面形成铬层",
+              "name": "chromium"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 低成本, 高硬度, 高耐磨性",
+              "featureName": "镀锌",
+              "featureUtility": "将经过镀前处理的零件放入机械转动的滚筒中, 加入水和冲击介质（玻璃丸）, 滚筒转动形成一个具有碰撞和搓碾作用的流态环境",
+              "name": "galvanizing"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 耐色",
+              "featureName": "镀锡",
+              "featureUtility": "在金属表面镀上一层金属锡, 用于隔绝空气, 保护铜材不会受外界的腐蚀",
+              "name": "tin-plating"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 耐磨性",
+              "featureName": "镀镍",
+              "featureUtility": "镀镍是一种通过电解生产镍涂层的工艺。具有良好的耐磨性、高耐腐蚀性, 对碱、酸和气体具有化学抗性",
+              "name": "nickel-plating"
+            }
+          ],
+          "finishingName": "电镀",
+          "name": "电镀"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "耐腐蚀性, 低成本, 无尺寸变化, 不易剥落",
+              "featureName": "发黑",
+              "featureUtility": "利用化学反应在基体表面形成黑色保护膜的方法, 具有诸多优点, 如赋予基体防锈能力、加工成本低、不改变尺寸、不易剥落",
+              "name": "blackening"
+            },
+            {
+              "featureCharacter": "耐腐蚀性, 美观, 提高油漆层的附着力",
+              "featureName": "磷化",
+              "featureUtility": "在金属表面提供一层保护膜, 与空气隔离, 防止腐蚀, 提高油漆层的附着力和耐腐蚀性",
+              "name": "phosphating"
+            }
+          ],
+          "finishingName": "化学表面处理",
+          "name": "化学"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "提高塑性, 提高切削性能, 降低硬度",
+              "featureName": "退火",
+              "featureUtility": "将金属或合金 加热到适当温度, 保温一定时间, 然后缓慢冷却 （一般为随炉冷却）的热处理工艺",
+              "name": "carbon-nitrogen"
+            },
+            {
+              "featureCharacter": "耐磨性, 提高硬度, 增强强度",
+              "featureName": "淬火",
+              "featureUtility": "淬火是通过选择性地改变和改造微观结构来增加车削和铣削零件的机械阻力",
+              "name": "annealing"
+            },
+            {
+              "featureCharacter": "提高韧性、降低硬度、提高组织稳定性",
+              "featureName": "回火",
+              "featureUtility": "将经过淬火的工件重新加热到低于下临界温度Ac1(加热时珠光体向奥氏体转变的开始温度)的适当温度, 保温一段时间后在空气或水、油等介质中冷却的金属热处理工艺",
+              "name": "quenching"
+            },
+            {
+              "featureCharacter": "提高弹性, 增加强度, 提高耐腐蚀性能, 耐磨性",
+              "featureName": "渗氮",
+              "featureUtility": "将工件置于密封容器中, 通入流动氨气并加热。经过长时间保温, 氨气分解产生活性氮原子, 连续吸附到工件的表面并扩散到工件表面, 从而改变表层的化学组成和结构, 实现优异的表面性能",
+              "name": "tempering"
+            },
+            {
+              "featureCharacter": "提高弹性, 增加强度, 提高耐腐蚀性能, 耐磨性",
+              "featureName": "碳氮共渗",
+              "featureUtility": "碳氮共浸渗是一种热化学表面淬火过程, 其后续淬火步骤类似于表面淬火。在此过程中, 材料表层也富含氮元素。碳氮共浸渗的温度比用于表面硬化的温度低。这减少了变形的风险。可以实现更高的表面硬度, 特别适用于非合金钢和低合金钢",
+              "name": "nitriding"
+            }
+          ],
+          "finishingName": "表面热处理",
+          "name": "表面热处理"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "黑色尺寸, 精度, 提高耐腐蚀性能, 美观",
+              "featureName": "抛光",
+              "featureUtility": "抛光是一种化学表面处理, 用于在黑色金属表面形成一层薄弱的保护层。抛光不是一种涂层。由于化学过程, 材料将变为黑色",
+              "name": "laser"
+            },
+            {
+              "featureCharacter": "能够抛光复杂部件, 高效, 提高耐腐蚀性能",
+              "featureName": "电解抛光",
+              "featureUtility": "将被抛光工件作为阳极, 不溶性金属为阴极, 两极同时浸入到电解槽中, 通以直流电而产生有选择性的阳极溶解, 从而达到工件表面光亮度增大的效果",
+              "name": "polishing"
+            },
+            {
+              "featureCharacter": "低成本, 高效率, 适用于低精度的大批量生产",
+              "featureName": "丝印",
+              "featureUtility": "通过胶头的作用将刻在钢板上的图案转移到工件上, 通过胶刮的压力将油墨从网版的网孔中渗透到产品上, 形成图案",
+              "name": "wire"
+            },
+            {
+              "featureCharacter": "标记速度快, 美观, 永不磨损, 快速速度, 低成本",
+              "featureName": "镭雕",
+              "featureUtility": "使用激光器在焦点处发射的高强度聚焦激光束氧化材料并对其进行加工",
+              "name": "silk-screen"
+            },
+            {
+              "featureCharacter": "表面强化, 美观, 高效",
+              "featureName": "喷砂",
+              "featureUtility": "喷砂利用压缩空气作为动力形成高速喷射束, 将研磨材料以高速喷射到待处理工件表面, 造成工件外表面的物理改变",
+              "name": "sandblasting"
+            },
+            {
+              "featureCharacter": "表面强化, 高强度, 耐腐蚀性, 平滑表面",
+              "featureName": "拉丝",
+              "featureUtility": "采用拉丝的布条往复运动, 在工件表面来回摩擦使工件表面光洁度提高, 表面纹理呈直线状",
+              "name": "electrolytic"
+            }
+          ],
+          "finishingName": "其他",
+          "name": "其他"
+        }
+      ],
+      "finishingsInfo_en": [
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": " Excellent corrosion resistance, Aging resistance, Beautiful and diverse in color",
+              "featureName": "Powder spray painting",
+              "featureUtility": "Spray powder coating onto the surface of the workpiece, and use the phenomenon of corona discharge to make the powder coating adhere to the workpiece, forming a powdery coating; The powdery coating undergoes high-temperature baking, leveling and solidification to form final coatings with different effects",
+              "name": "powder"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, beautiful",
+              "featureName": "Spray",
+              "featureUtility": "Pour the paint into a container, apply pressure with mechanical equipment, and spray the paint onto the product in a mist form to form a paint film",
+              "name": "spraying"
+            },
+            {
+              "featureCharacter": "Heat resistance, Insulation stability, Low friction",
+              "featureName": "Spraying Teflon",
+              "featureUtility": "Spray Teflon material is sprayed on a variety of substrate surfaces",
+              "name": "fuel"
+            }
+          ],
+          "finishingName": "Spray coating",
+          "name": "Spray coating"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Corrosion resistance, Wear resistance, High hardness",
+              "featureName": "Anodic oxidation",
+              "featureUtility": "The treatment process of producing an oxide film on the surface of aluminum or aluminum alloy using electrolytic treatment, resulting in a thin film obtained through anodic oxidation treatment",
+              "name": "anodic"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, Wear resistance, High hardness, Hyperthermia",
+              "featureName": "Hard anodizing",
+              "featureUtility": "The corresponding electrolyte of the alloy (such as sulfuric acid, chromic acid, oxalic acid, etc.) is used as the anode, and the electrolysis is carried out under certain conditions and the applied current",
+              "name": "hard-anodizing"
+            }
+          ],
+          "finishingName": "Oxidation",
+          "name": "Oxidation"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Excellent corrosion resistance, beautiful, High hardness, Good high heat resistance",
+              "featureName": "Chromium plating",
+              "featureUtility": "In the chrome plating process, the workpiece acts as a cathode and is placed in an electrolyte containing chromate. When energized, the chromium ions in the electrolyte are reduced to metallic chromium on the surface of the cathode, which is deposited on the surface of the workpiece to form a chromium layer",
+              "name": "chromium"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, low cost, High hardness, High wear resistance",
+              "featureName": "Galvanizing",
+              "featureUtility": "Place the pre plated parts into a mechanically rotating drum, add water and impact medium (glass pellets), and the drum rotates to form a fluid environment with collision and rolling effects",
+              "name": "galvanizing"
+            },
+            {
+              "featureCharacter": " A layer of metal tin is coated on the surface of the metal to isolate the air and protect the copper from external corrosion",
+              "featureName": "Tin plating",
+              "name": "tin-plating"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, Wear resistance",
+              "featureName": "Nickel plating",
+              "featureUtility": "Nickel plating is a process for electrolytic production of nickel coatings. It has good wear resistance, high corrosion resistance, and chemical resistance to alkali, acid, and gas",
+              "name": "nickel-plating"
+            }
+          ],
+          "finishingName": "Electroplating",
+          "name": "Electroplating"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Corrosion resistance, low cost, No size change, Not easy to peel off",
+              "featureName": "Blackening",
+              "featureUtility": "The use of chemical reactions to form a black protective film on the surface of the substrate has many advantages, such as endowing the substrate with rust prevention ability, low processing cost, no size change, and not easy to peel off",
+              "name": "blackening"
+            },
+            {
+              "featureCharacter": "Corrosion resistance, beautiful, Improve the adhesion of the paint layer",
+              "featureName": "Phosphating",
+              "featureUtility": "Provide a protective film on the metal surface to isolate it from air, prevent corrosion, and improve the adhesion and corrosion resistance of the paint layer",
+              "name": "phosphating"
+            }
+          ],
+          "finishingName": "Chemical surface treatment",
+          "name": "Chemical"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Improve plasticity, Improving cutting performance, Reduce hardness",
+              "featureName": "Annealing",
+              "featureUtility": "A heat treatment process in which a metal or alloy is heated to an appropriate temperature, kept warm for a certain period of time, and then slowly cooled (usually cooled with a furnace).",
+              "name": "carbon-nitrogen"
+            },
+            {
+              "featureCharacter": "Wear resistance , Improve hardness , Increase intensity",
+              "featureName": "Quenching",
+              "featureUtility": "Quenching is the process of selectively altering and modifying the microstructure to increase the mechanical resistance of turning and milling parts.",
+              "name": "annealing"
+            },
+            {
+              "featureCharacter": "Improving resilience, Reduce hardness, Improve organizational stability",
+              "featureName": "Tempering",
+              "featureUtility": "This is a metal heat treatment process in which the quenched workpiece is reheated to an appropriate temperature below the lower critical temperature Ac1 (the starting temperature at which the pearlite converts to austenite when heated), and then cooled in air or water, oil and other media after holding it for a period of time.",
+              "name": "tempering"
+            },
+            {
+              "featureCharacter": "Improving resilience, Increase intensity, Improve corrosion resistance performance, Wear resistance",
+              "featureName": "Nitriding",
+              "featureUtility": "Place the workpiece into a sealed container, pass through flowing ammonia gas and heat it. After a long period of insulation, the ammonia gas decomposes to produce active nitrogen atoms, which continuously adsorb onto the surface of the workpiece and diffuse into the surface of the workpiece, thereby changing the chemical composition and structure of the surface layer and achieving excellent surface performance.",
+              "name": "quenching"
+            },
+            {
+              "featureCharacter": "Improving resilience,  Increase intensity,  Improve corrosion resistance performance,  Wear resistance",
+              "featureName": "Carbon nitrogen co infiltration",
+              "featureUtility": "Carbonitriding is a thermochemical surface quenching process, and its subsequent quenching steps are similar to surface quenching. During this process, the surface layer of the material is also rich in nitrogen. The temperature of carbon nitrogen co infiltration is lower than the temperature used in surface hardening. This reduces the risk of distortion. Can achieve higher surface hardness, especially for non-alloy steel and low alloy steel",
+              "name": "nitriding"
+            }
+          ],
+          "finishingName": "Surface heat treatment",
+          "name": "Surface"
+        },
+        {
+          "finishingFeatures": [
+            {
+              "featureCharacter": "Black colored size , accuracy , Improve corrosion resistance performance , beautiful",
+              "featureName": "Polishing",
+              "featureUtility": "Polishing is a chemical surface treatment used to form a weak protective layer on the surface of black metals. Polishing is not a coating. Due to chemical processes, the material will turn black",
+              "name": "laser"
+            },
+            {
+              "featureCharacter": "Capable of polishing complex parts, efficient, Improve corrosion resistance performance",
+              "featureName": "Electrolytic polishing",
+              "featureUtility": "The polished workpiece is used as the anode, the insoluble metal is the cathode, and the two poles are immersed in the electrolytic cell at the same time, and the selective anode dissolution is generated by direct current, so as to achieve the effect of increasing the brightness of the workpiece surface.",
+              "name": "polishing"
+            },
+            {
+              "featureCharacter": "Low cost, efficient, Suitable for mass production with low precision",
+              "featureName": "Silk screen printing",
+              "featureUtility": "The pattern engraved on the steel plate is transferred to the workpiece through the role of the rubber head, and the ink permeates from the mesh of the screen plate to the product through the pressure of the rubber scraper to form the pattern.",
+              "name": "wire"
+            },
+            {
+              "featureCharacter": "Fast marking speed, beautiful, Never wear out, High speed and speed, low cost",
+              "featureName": "Laser carving",
+              "featureUtility": "Using a high-intensity focused laser beam emitted by a laser at the focal point to oxidize the material and process it",
+              "name": "Laser carving"
+            },
+            {
+              "featureCharacter": "Surface strengthening , beautiful, high efficiency",
+              "featureName": "Sandblasting",
+              "featureUtility": "Sandblasting uses compressed air as the power to form a high-speed jet beam, which sprays abrasive at high speed onto the surface of the workpiece to be treated, causing physical changes to the outer surface of the workpiece",
+              "name": "sandblasting"
+            },
+            {
+              "featureCharacter": " Surface strengthening, high strength, Corrosion resistance, smooth surface",
+              "featureName": "wire drawing",
+              "featureUtility": "A method of improving the surface smoothness of a workpiece by using the reciprocating motion of a drawn cloth strip and rubbing it back and forth on the surface of the workpiece, with a linear texture on the surface",
+              "name": "electrolytic"
+            }
+          ],
+          "finishingName": "Other",
+          "name": "Other"
+        }
+      ],
+      "materials": [
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "铝"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "铜"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "塑料"
+        },
+        {
+          "custom": "Custom aluminium alloys are also available",
+          "Features": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "name": "塑料"
+        }
+      ],
+      "materialsInfo_ch": [
+        {
+          "finishing": [
+            "喷粉",
+            "喷涂特氟龙",
+            "阳极氧化",
+            "镀镍",
+            "抛光",
+            "电解抛光",
+            "丝印",
+            "喷砂"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-易加工-耐腐蚀-焊接性良好",
+              "featureName": "MIC-6",
+              "featureUtility": "用于飞机零件、照相机镜头、耦合器、船舶配件等",
+              "image": "MIC-6",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-焊接性良好",
+              "featureName": "铝合金 2A12",
+              "featureUtility": "用于飞机骨架、机身, 汽车车身、发动机等",
+              "image": "2A12",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7075",
+              "featureCharacter": "高强度-耐腐蚀-加工性能极佳-机械性能良好",
+              "featureName": "7075 铝",
+              "featureUtility": "用于航空航天、模具加工、机械设备、工装夹具",
+              "image": "7075",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6061",
+              "featureCharacter": "高强度-耐腐蚀-高韧性-焊接性良好",
+              "featureName": "6061铝",
+              "featureUtility": "用于建筑结构、汽车部件等",
+              "image": "6061",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6082",
+              "featureCharacter": "耐腐蚀-焊接性、导热性良好",
+              "featureName": "铝合金 6082",
+              "featureUtility": "用于交通运输和结构工程工业",
+              "image": "6082",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6060",
+              "featureCharacter": "耐腐蚀-不受气候影响",
+              "featureName": "6060铝",
+              "featureUtility": "用于灯饰、家具、地板等对强度无特殊要求的工程应用",
+              "image": "6060",
+              "pricingRange": "3$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2007/2030|AlCuMgPb",
+              "featureCharacter": "耐腐蚀-不受气候影响",
+              "featureName": "铝合金2007/2030",
+              "featureUtility": "用于飞机零部件、齿轮和轴、熔丝零件、仪表轴和齿轮等",
+              "image": "2007_2030",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2017|AlCuMg1",
+              "featureCharacter": "耐腐蚀-不受气候影响",
+              "featureName": "铝合金2017",
+              "featureUtility": "用于铆钉、通用机械零件、运输工具结构件等",
+              "image": "2017",
+              "pricingRange": "2$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-5083|AlMg4, 5Mn0, 7",
+              "featureCharacter": "耐腐蚀-天然硬质-焊接性良好-不受气候影响",
+              "featureName": "铝合金 5083",
+              "featureUtility": "用于汽车、飞机焊接件、钻探设备等",
+              "image": "5083",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-5754|AlMg3",
+              "featureCharacter": "耐腐蚀-天然硬质-焊接性良好",
+              "featureName": "铝合金 5754",
+              "featureUtility": "用于焊接结构、贮槽、压力容器等",
+              "image": "5754",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7019|AlZn4Mg2Mn",
+              "featureCharacter": "高强度-耐腐蚀",
+              "featureName": "铝合金7019",
+              "featureUtility": "用于 航天航空工业、吹塑（瓶）模、超声波塑焊模具等",
+              "image": "7019",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "nEN AW-7021|AlZn5, 5Mg1, 5",
+              "featureCharacter": "高强度-耐腐蚀",
+              "featureName": "铝合金 7021",
+              "featureUtility": "用于制造航空器材、日常生活用品、建筑用门窗等",
+              "image": "7021",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            }
+          ],
+          "materialName": "铝",
+          "name": "Aluminum"
+        },
+        {
+          "finishing": [
+            "喷粉",
+            "镀锌",
+            "镀锡",
+            "镀镍",
+            "发黑",
+            "磷化",
+            "退火",
+            "淬火",
+            "回火",
+            "渗氮",
+            "碳氮共渗",
+            "抛光",
+            "喷砂"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "DIN S235JR",
+              "featureCharacter": "韧性-塑性-焊接性较好",
+              "featureName": "Q235A",
+              "featureUtility": "用于各种焊接结构件、普通机械零件等",
+              "image": "Q235A",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-易切削加工",
+              "featureName": "C45",
+              "featureUtility": "用于强度要求较高的零件, 如齿轮、轴、活塞销等",
+              "image": "C45",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "钢 1.2080|DIN x210Cr12",
+              "featureCharacter": "淬透性较好-耐磨性良好",
+              "featureName": "Cr12",
+              "featureUtility": "用于高耐磨的冷冲模及冲头 、冷切剪刀、钻套等",
+              "image": "Cr12",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN 10084-2008",
+              "featureCharacter": "淬透性-切削性较好",
+              "featureName": "16CrMnH",
+              "featureUtility": "经渗碳淬火后使用, 主要用于制造齿轮、蜗杆、密封轴套等",
+              "image": "16CrMnH",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN 683-2-2018 ",
+              "featureCharacter": "高强度-韧性-淬透性较好",
+              "featureName": "42CrMoS4",
+              "featureUtility": "用于机车牵引用的大齿轮、增压器传动齿轮、载荷极大的连杆等",
+              "image": "42CrMoS4",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN 10277-3-1999",
+              "featureCharacter": "高强度-高硬度-加工性能良好",
+              "featureName": "11SMn309SMn29",
+              "featureUtility": "用于机械制造、自动化设备和高精度零件制造等",
+              "image": "11SMn30",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN 10025-2",
+              "featureCharacter": "耐腐蚀-高强度-韧性-塑性-焊接性良好",
+              "featureName": "S355J2G3",
+              "featureUtility": "用于重型机械设备、矿山机械",
+              "image": "S355J2G3",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN 10025",
+              "featureCharacter": "高强度-耐腐蚀-高屈服强度-高抗拉强度",
+              "featureName": "S355JRSt 52",
+              "featureUtility": "用于支撑结构、船舶外壳、船用设备等",
+              "image": "S355JR",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN 10277-2018",
+              "featureCharacter": "高耐磨性-加工性能良好",
+              "featureName": "11SMnPb379SMnPb36",
+              "featureUtility": "用于自动化设备、车辆、机床、电子设备和航空航天设备制造等",
+              "image": "11SMnPb37",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN-10132-4",
+              "featureCharacter": "高强度-高硬度-高弹性",
+              "featureName": "C60E1.1221",
+              "featureUtility": "用于制造需要高强度、硬度和耐磨性的机械零件, 例如轴、销、齿轮、螺栓等",
+              "image": "C60E",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "DIN S235JRG1",
+              "featureCharacter": "高强度-高韧性-加工性能优异",
+              "featureName": "Q235B",
+              "featureUtility": "用于船舶、车辆结构件、制造各种工具、 刃具 、模具和量具等",
+              "image": "Q235B",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "高强度-高硬度-耐磨性-热加工性能良好",
+              "featureName": "高碳铬轴承钢GCr15",
+              "featureUtility": "用于制造内燃机、电机车、机床、钻探机、以及矿山机械等传动轴上的钢球、滚子和轴套等",
+              "image": "GCr15",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            }
+          ],
+          "materialName": "钢",
+          "name": "steel"
+        },
+        {
+          "finishing": [
+            "喷粉",
+            "镀锌",
+            "镀镍",
+            "发黑",
+            "抛光",
+            "拉丝"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN 316Ti|X6CrNiMoTi17-12-2 ",
+              "featureCharacter": "耐腐蚀, 机械加工性能良好, 注：不能通过热处理硬化",
+              "featureName": "不锈钢 1.4571",
+              "featureUtility": "用于制造焊接部件等",
+              "image": "1.4571",
+              "pricingRange": "5$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN X5CrNi18-10",
+              "featureCharacter": " 耐热, 耐腐蚀, 耐低温, 机械加工性能良好",
+              "featureName": "不锈钢 1.4301",
+              "featureUtility": "用于食品用设备, 一般化工设备, 原子能工业等",
+              "image": "1.4301",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X8CrNiS18-9",
+              "featureCharacter": " 非磁性, 机械加工性能优异, 注：耐腐蚀性低不可焊接",
+              "featureName": "不锈钢 1.4305",
+              "featureUtility": "用于机械加工",
+              "image": "1.4305",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN X90CrMoV18",
+              "featureCharacter": " 可磁化, 耐腐蚀, 机械加工性能优异",
+              "featureName": "不锈钢 1.4305",
+              "featureUtility": "用于刀具、机械零部件、化工设备、医疗器械制造等",
+              "image": "1.4305",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X14CrMoS17",
+              "featureCharacter": " 可磁化, 耐腐蚀, 机械加工性能优异",
+              "featureName": "不锈钢 1.4104",
+              "featureUtility": "用于制造各种机器零件",
+              "image": "1.4104",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X6CrNiMoTi17-12-2",
+              "featureCharacter": " 非磁性, 耐热, 焊接性良好, 1150°下具有良好的强度性能, 650°下具有良好的耐腐蚀性",
+              "featureName": "不锈钢1.4841",
+              "featureUtility": "用于石油、天然气和化工行业中的高温设备",
+              "image": "1.4841",
+              "pricingRange": "5$",
+              "productionPriceRange": "5$"
+            },
+            {
+              "featureAlternativeName": "EN X5CrNiCuNb16-4",
+              "featureCharacter": " 可硬化, 耐腐蚀, 硬度良好",
+              "featureName": "不锈钢1.4542",
+              "featureUtility": "用于制造医疗部件、一般机械、汽车仪器等",
+              "image": "1.4542",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN X2CrNiMo17-12-2",
+              "featureCharacter": " 耐腐蚀, 可焊接性良好",
+              "featureName": "不锈钢 1.4404",
+              "featureUtility": "用于化学工业",
+              "image": "1.4404",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN X17CrNi16-2",
+              "featureCharacter": " 高强度, 耐腐蚀, 焊接性良好",
+              "featureName": "不锈钢 1.4057",
+              "featureUtility": "用于制造高强度、韧性和耐蚀性的零部件, 及潮湿环境中工作的承力部件",
+              "image": "1.4057",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN X20Cr13",
+              "featureCharacter": " 耐腐蚀, 高耐磨性, 机械加工性能优异",
+              "featureName": "不锈钢420",
+              "featureUtility": "用于化学工业、食品加工设备等",
+              "image": "420",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN X6Cr17",
+              "featureCharacter": " 耐腐蚀, 导热性能良好",
+              "featureName": "不锈钢430",
+              "featureUtility": "用于燃油、烧嘴部件、家庭用器具、家电部件",
+              "image": "430",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN X5CrNiMo17-12-2",
+              "featureCharacter": "  耐腐蚀, 耐高温",
+              "featureName": "不锈钢316",
+              "featureUtility": "用于螺栓、螺母、水下设备、化学、染料等生产设备",
+              "image": "316",
+              "pricingRange": "2$",
+              "productionPriceRange": "32$"
+            }
+          ],
+          "materialName": "不锈钢",
+          "name": "stainless-steel"
+        },
+        {
+          "finishing": [
+            "发黑",
+            "退火",
+            "淬火",
+            "回火",
+            "抛光"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "C45U",
+              "featureCharacter": "耐磨, 机械加工性能良好",
+              "featureName": "1.173",
+              "featureUtility": "用于需要坚硬表面和坚韧芯材的应用",
+              "image": "1.173",
+              "pricingRange": "2$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "X40Cr14",
+              "featureCharacter": "耐磨",
+              "featureName": "1.2083",
+              "featureUtility": "用于制造腐蚀性塑料的模具",
+              "image": "1.2083",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "115CrV3",
+              "featureCharacter": "易加工, 耐磨, 高强度, 高硬度",
+              "featureName": "1.221",
+              "featureUtility": "用于强度、硬度要求较高的部件",
+              "image": "1.221",
+              "pricingRange": "4$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "40CrMnMoS8-6",
+              "featureCharacter": "氮化性能良好, 机械加工性能良好, 耐磨, 注：抛光性和蚀刻性有限",
+              "featureName": "1.2312",
+              "featureUtility": "用于工具和模具制造",
+              "image": "1.2312",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": " X153CrMoV12",
+              "featureCharacter": "高耐磨性, 高强度, 高硬度",
+              "featureName": "1.2379",
+              "featureUtility": "用于制造工具",
+              "image": "1.2379",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": " 90MnCrV8",
+              "featureCharacter": "高耐磨性, 高硬度",
+              "featureName": "1.2842",
+              "featureUtility": "用于包括模具、冲压工具、拉丝冲头、拉刀、衬套、车床、卡盘爪",
+              "image": "1.2842",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": " 100Cr6",
+              "featureCharacter": "高耐磨性, 高硬度",
+              "featureName": "1.3505",
+              "featureUtility": "用于机械工程中易磨损的零件",
+              "image": "1.3505",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            }
+          ],
+          "materialName": "工具钢",
+          "name": "tool"
+        },
+        {
+          "finishing": [
+            "喷砂",
+            "喷涂特氟龙",
+            "镭雕"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 尺寸稳定性优异, 电绝缘性能良好, 机械加工性良好, 吸水率低, 不适合滑动应用",
+              "featureName": "PC 聚碳酸酯",
+              "featureUtility": "用于制造大型灯罩、防护玻璃、光学仪器的左右目镜筒等",
+              "image": "PC",
+              "pricingRange": "4$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 机械性能优异, 滑动性能优异, 抗蠕变性良好, 机械加工性优异",
+              "featureName": "POM 聚甲醛",
+              "featureUtility": "用于干摩擦应用",
+              "image": "POM",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 高硬度, 高透明度",
+              "featureName": "亚克力",
+              "featureUtility": "用于亚克力灯箱、广告招牌等",
+              "image": "Acrylic",
+              "pricingRange": "3$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "耐化学性良好, 电绝缘性能优异",
+              "featureName": "PP-H 聚丙烯",
+              "featureUtility": "用于医疗器械、汽车、自行车、零件、输送管道、化工容器等",
+              "image": "PP-H",
+              "pricingRange": "1$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "阻尼性能良好, 机械性能良好, 滑动性能良好, 高耐磨性",
+              "featureName": "PA6 聚酰胺",
+              "featureUtility": "用于制造具有动态载荷的结构和滑动元件",
+              "image": "PA6",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 耐化学性优异, 阻尼性能良好, 电绝缘性能优异, 可在低至 -270 °C 的温度下使用",
+              "featureName": "PE-1000/PE-UHMW 聚乙烯",
+              "featureUtility": "用于超低温范围(-200°C 至 -270°C)的应用",
+              "image": "PE-1000_PE-UHMW",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "非常高的机械强度, 非常高的表面硬度, 耐磨性优异, 高热负荷能力, 耐化学性优异, 抗辐射性良好, 机械加工性良好",
+              "featureName": "PEEK 聚醚醚酮",
+              "featureUtility": "用于机械强度、刚度和耐温性要求高的应用",
+              "image": "PEEK",
+              "pricingRange": "5$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "阻尼性能良好, 耐化学性优异, 电绝缘性能优异, 适用温度高达-50°C",
+              "featureName": "PE-HD 聚乙烯",
+              "featureUtility": "用于机械、电力、化工等行业",
+              "image": "PE-HD",
+              "pricingRange": "1$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "耐化学性良好, 高韧性, 非常高的强度, 高刚度, 焊接和粘接性能良好, 滑动和摩擦性能良好, 机械加工性良好, 增强的紫外线防护（PET黑）",
+              "featureName": "PET 白/黑色",
+              "featureUtility": "用于做纤维、薄膜、工程塑料、聚酯瓶等",
+              "image": "PET",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "不易燃, 耐化学性优异, 耐光、耐候和耐辐射, 电绝缘性能良好",
+              "featureName": "PVDF 聚偏二氟乙烯",
+              "featureUtility": "用于绕线电路的细30号线以及印刷电路板常用PVDF绝缘",
+              "image": "PVDF",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "耐化学性优异, 滑动性能优异, 耐光、耐候、耐辐射, 不易燃, 电绝缘性能优异",
+              "featureName": "PTFE 聚四氟乙烯",
+              "featureUtility": "用于耐腐蚀管道、管件、波纹管、泵体、阀门和各类标准设备的耐腐蚀衬里首选材料",
+              "image": "PTFE",
+              "pricingRange": "4$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "滑动性能良好, 耐化学性优异, 电绝缘性能优异",
+              "featureName": "PVC-U 聚氯乙烯",
+              "featureUtility": "用于管道、电缆绝缘、地板、标牌、留声机唱片、充气产品和橡胶替代品",
+              "image": "PVC-U",
+              "pricingRange": "5$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 耐化学性优异, 高强度, 高硬度, 热性能优异, 高抗蠕变性",
+              "featureName": "PPS GF40",
+              "featureUtility": "用于化工设备、食品加工、半导体、电气绝缘和电子工业",
+              "image": "PPS-GF40",
+              "pricingRange": "5$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 阻尼性能良好, 机械性能优异, 耐热性良好, 不适合滑动应用, 机械加工性良好",
+              "featureName": "PA66 GF30",
+              "featureUtility": "与未增强的 PA 相比, 具有更好的机械和热性能",
+              "image": "PA66-GF30",
+              "pricingRange": "3$",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": " 滑动性能良好, 电导率, 防止静电荷, 机械性能优异, 抗蠕变性良好, 机械加工性优异",
+              "featureName": "POM-C ESD",
+              "featureUtility": "用于半导体和电子制造设备的组件",
+              "image": "POM-C-ESD",
+              "pricingRange": "2$",
+              "productionPriceRange": "--"
+            }
+          ],
+          "materialName": "塑料",
+          "name": "plastic"
+        },
+        {
+          "finishing": [
+            "喷砂",
+            "抛光"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "DIN CuZn40",
+              "featureCharacter": "高强度, 高硬度, 塑性良好",
+              "featureName": "黄铜H62",
+              "featureUtility": "用于各种深拉深和弯折制造的受力零件",
+              "image": "H62",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "C10200",
+              "featureCharacter": "纯度高, 导电、导热性优异, 耐腐蚀性较好",
+              "featureName": "无氧铜TU2",
+              "featureUtility": "用于电真空器件和仪器、仪表",
+              "image": "TU2",
+              "pricingRange": "$",
+              "productionPriceRange": "$"
+            },
+            {
+              "featureAlternativeName": "C11000",
+              "featureCharacter": "导电、导热性较好, 耐腐蚀性较好",
+              "featureName": "紫铜T2",
+              "featureUtility": "用于导电、导热、耐蚀器材",
+              "image": "T2",
+              "pricingRange": "$",
+              "productionPriceRange": "$"
+            },
+            {
+              "featureAlternativeName": "DIN CuZn39Pb3",
+              "featureCharacter": "滑动性能优异, 非常耐腐蚀, 机械加工性优异",
+              "featureName": "HPb58-2.5Ms58 (青铜)",
+              "featureUtility": "用于机械加工等",
+              "image": "HPb58-2.5",
+              "pricingRange": "3$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "DIN ECu58",
+              "featureCharacter": "高导电性, 非常耐腐蚀, 导热性能优异",
+              "featureName": "Cu-ETP CW004A (电解精炼含氧铜)",
+              "featureUtility": "用于火花腐蚀的电极和电池系统中的连接元件",
+              "image": "Cu-ETP-CW004A",
+              "pricingRange": "4$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "CuSn4Pb4Zn4",
+              "featureCharacter": "耐磨性较好, 耐腐蚀性较好, 可加工性良好",
+              "featureName": "锡青铜QSn4-4-4",
+              "featureUtility": "用于船舶、化工和机械等领域",
+              "image": "QSn4-4-4",
+              "pricingRange": "$",
+              "productionPriceRange": "$"
+            },
+            {
+              "featureAlternativeName": "EN 1982-2008",
+              "featureCharacter": "滑动性能优异, 非常耐腐蚀, 耐磨",
+              "featureName": "CuSn12 CC483K (青铜)",
+              "featureUtility": "用以机床主轴轴承, 精密机床或零部件",
+              "image": "CuSn12",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN 1982-2017",
+              "featureCharacter": "滑动性能优异, 非常耐腐蚀, 紧急运行性能优异, 机械加工性较好",
+              "featureName": "CuSn7Zn4Pb7 Rg7 (青铜)",
+              "featureUtility": "用于机械工程的滑动轴承和轴承衬套",
+              "image": "CuSn7Zn4Pb7",
+              "pricingRange": "4$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "DIN EN 12163-2016",
+              "featureCharacter": "滑动性能良好, 非常耐腐蚀, 弹簧性能较好, 耐磨",
+              "featureName": "CuSn8 CW453K (青铜)",
+              "featureUtility": "用于制造在中等载荷和中等滑动速度下的耐磨零件和结构零件",
+              "image": "CuSn8",
+              "pricingRange": "4$",
+              "productionPriceRange": "3$"
+            }
+          ],
+          "materialName": "铜",
+          "name": "copper"
+        },
+        {
+          "finishing": [
+            "喷砂"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN-GJL-250",
+              "featureCharacter": "导热性良好, 耐磨性优异",
+              "featureName": "铸铁 0.6025",
+              "featureUtility": "--",
+              "image": "0.6025",
+              "pricingRange": "4$",
+              "productionPriceRange": "2$"
+            }
+          ],
+          "materialName": "铸铁",
+          "name": "hierro"
+        }
+      ],
+      "materialsInfo_en": [
+        {
+          "finishing": [
+            "Powder spray painting",
+            "Spraying Teflon",
+            "Oxidation",
+            "Nickel Plating",
+            "Polishing",
+            "Electrolytic polishing",
+            "Silk screen printing",
+            "Sandblasting"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High strength, easy to process, corrosion-resistant, good weldability",
+              "featureName": "MIC-6",
+              "featureUtility": "Used in aircraft parts, camera lenses, couplings, naval components, etc.",
+              "image": "MIC-6",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High strength, good weldability",
+              "featureName": "Aluminum alloy 2A12",
+              "featureUtility": "Used in aircraft frames, fuselages, automotive bodies, engines, etc.",
+              "image": "2A12",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7075",
+              "featureCharacter": "High strength, corrosion-resistant, excellent machinability, good mechanical performance",
+              "featureName": "7075 Aluminum",
+              "featureUtility": "Used in aerospace, mold processing, mechanical equipment, tooling and fixtures",
+              "image": "7075",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6061",
+              "featureCharacter": "High strength, corrosion-resistant, high toughness, good weldability",
+              "featureName": "6061 Aluminum",
+              "featureUtility": "Used in building structures, automotive parts, etc.",
+              "image": "6061",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6082",
+              "featureCharacter": "Corrosion-resistant, good weldability and thermal conductivity",
+              "featureName": "Aluminum alloy 6082",
+              "featureUtility": "Used in transportation and structural engineering industries",
+              "image": "6082",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-6060",
+              "featureCharacter": "Corrosion-resistant, unaffected by weather",
+              "featureName": "6060 Aluminum",
+              "featureUtility": "Used in engineering applications with no special strength requirements, such as lighting, furniture, flooring, etc.",
+              "image": "6060",
+              "pricingRange": "3$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2007/2030|AlCuMgPb",
+              "featureCharacter": "Corrosion-resistant, unaffected by weather",
+              "featureName": "Aluminum alloy 2007/2030",
+              "featureUtility": "Used in aircraft components, gears and shafts, fuse parts, instrument shafts and gears, etc.",
+              "image": "2007_2030",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN AW-2017|AlCuMg1",
+              "featureCharacter": "Corrosion-resistant, unaffected by weather",
+              "featureName": "Aluminum alloy 2017",
+              "featureUtility": "Used in rivets, general mechanical parts, structural parts of transport tools, etc.",
+              "image": "2017",
+              "pricingRange": "2$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "nEN AW-5083|AlMg4, 5Mn0, 7",
+              "featureCharacter": "Corrosion-resistant, naturally hard, good weldability, unaffected by weather",
+              "featureName": "Aluminum alloy 5083",
+              "featureUtility": "Used in automotive, aircraft welding parts, drilling equipment, etc.",
+              "image": "5083",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-5754|AlMg3",
+              "featureCharacter": "Corrosion-resistant, naturally hard, good weldability",
+              "featureName": "Aluminum alloy 5754",
+              "featureUtility": "Used in welded structures, storage tanks, pressure vessels, etc.",
+              "image": "5083",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7019|AlZn4Mg2Mn",
+              "featureCharacter": "High strength, corrosion-resistant",
+              "featureName": "Aluminum alloy 7019",
+              "featureUtility": "Used in aerospace industry, blow molding (bottle) molds, ultrasonic plastic welding molds, etc.",
+              "image": "7019",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN AW-7021|AlZn5, 5Mg1, 5",
+              "featureCharacter": "High strength, corrosion-resistant",
+              "featureName": "Aluminum alloy 7021",
+              "featureUtility": "Used in manufacturing aircraft equipment, everyday items, architectural doors and windows, etc.",
+              "image": "7021",
+              "pricingRange": "5$",
+              "productionPriceRange": "2$"
+            }
+          ],
+          "materialName": "Aluminum",
+          "name": "Aluminum"
+        },
+        {
+          "finishing": [
+            "Powder spray painting",
+            "Galvanizing",
+            "Tin plating",
+            "Nickel Plating",
+            "Blackening",
+            "Phosphating",
+            "Annealing",
+            "Quenching",
+            "Tempering",
+            "Nitriding",
+            "Carbon nitrogen co infiltration",
+            "Polishing",
+            "Sandblasting"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Toughness, plasticity, good weldability",
+              "featureName": "Q235A",
+              "featureUtility": "Used for various welded structural components, common mechanical parts, etc.",
+              "image": "Q235A",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High strength, easy to cut",
+              "featureName": "C45",
+              "featureUtility": "Used for parts requiring high strength, such as gears, shafts, piston pins, etc.",
+              "image": "C45",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "Steel 1.2080|DIN x210Cr12",
+              "featureCharacter": "Good quenching ability, good wear resistance",
+              "featureName": "Cr12",
+              "featureUtility": "Used for highly wear-resistant cold punching dies and punches, cold cutting scissors, drill bushes, etc.",
+              "image": "Cr12",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "DIN EN-10084-2008",
+              "featureCharacter": "Quenching ability, good machinability",
+              "featureName": "16CrMnH",
+              "featureUtility": "Used after carburizing and quenching, mainly used for manufacturing gears, worms, seal sleeves, etc.",
+              "image": "16CrMnH",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-ISO 683-2-2018",
+              "featureCharacter": "High strength, toughness, good quenching ability",
+              "featureName": "42CrMoS4",
+              "featureUtility": "Used for locomotive traction large gears, turbocharger transmission gears, heavily loaded connecting rods, etc.",
+              "image": "42CrMoS4",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-10277-3-1999",
+              "featureCharacter": "High strength, high hardness, good machinability",
+              "featureName": "11SMn309SMn29",
+              "featureUtility": "Used for mechanical manufacturing, automation equipment, and high-precision parts manufacturing, etc.",
+              "image": "11SMn30",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN-10025-2",
+              "featureCharacter": "Corrosion-resistant, high strength, toughness, plasticity, good weldability",
+              "featureName": "S355J2G3",
+              "featureUtility": "Used for heavy-duty mechanical equipment, mining machinery, etc.",
+              "image": "S355J2G3",
+              "pricingRange": "2$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN-10025",
+              "featureCharacter": "High strength, corrosion-resistant, high yield strength, high tensile strength",
+              "featureName": "S355JR St 52",
+              "featureUtility": "Used for support structures, ship hulls, ship equipment, etc.",
+              "image": "S355JR",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN-10277-2018",
+              "featureCharacter": "High wear resistance, good machinability",
+              "featureName": "11SMnPb379SMnPb36",
+              "featureUtility": "Used for the manufacture of automation equipment, vehicles, machine tools, electronic equipment, and aerospace equipment, etc.",
+              "image": "11SMnPb37",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            },
+            {
+              "featureAlternativeName": "EN-10277-2018EN-10132-4",
+              "featureCharacter": "High strength, high hardness, high elasticity",
+              "featureName": "C60E1.1221",
+              "featureUtility": "Used for manufacturing machinery parts requiring high strength, hardness, and wear resistance, such as shafts, pins, gears, bolts, etc.",
+              "image": "C60E",
+              "pricingRange": "3$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-S235JRDIN St 37",
+              "featureCharacter": "High strength, high toughness, excellent machinability",
+              "featureName": "Q235B",
+              "featureUtility": "Used for ship, vehicle structural parts, manufacturing various tools, blades, molds and gauges, etc.",
+              "image": "Q235B",
+              "pricingRange": "1$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "",
+              "featureCharacter": "High strength, high hardness, wear resistance, good hot working performance",
+              "featureName": "High carbon chromium bearing Steel GCr15",
+              "featureUtility": "Used for steel balls, rollers, and shaft sleeves on drive shafts in internal combustion engines, motor vehicles ,etc.",
+              "image": "GCr15",
+              "pricingRange": "1$",
+              "productionPriceRange": "1$"
+            }
+          ],
+          "materialName": "Steel",
+          "name": "steel"
+        },
+        {
+          "finishing": [
+            "Powder spray painting",
+            "Galvanizing",
+            "Nickel plating",
+            "Blackening",
+            "Polishing",
+            "Wire drawing"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN 316Ti",
+              "featureCharacter": "Corrosion-resistant, good machinability, note: not hardenable by heat treatment",
+              "featureName": "Stainless steel 1.4571",
+              "featureUtility": "Used for manufacturing welded parts, etc.",
+              "image": "1.4571",
+              "pricingRange": "5$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-X5CrNi18-10",
+              "featureCharacter": "Heat-resistant, corrosion-resistant, low-temperature resistant, good machinability",
+              "featureName": "Stainless steel 1.4301",
+              "featureUtility": "Used for food equipment, general chemical equipment, nuclear industry, etc.",
+              "image": "1.4301",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X8CrNiS18-9",
+              "featureCharacter": "Non-magnetic, excellent machinability, note, low corrosion resistance and cannot be welded",
+              "featureName": "Stainless steel 1.4305",
+              "featureUtility": "Used in machining",
+              "image": "1.4305",
+              "pricingRange": "3$",
+              "productionPriceRange": "2$"
+            },
+            {
+              "featureAlternativeName": "EN-X90CrMoV18",
+              "featureCharacter": "Can be magnetized, corrosion-resistant, excellent machinability",
+              "featureName": "Stainless steel 1.4112",
+              "featureUtility": "Used for tool manufacturing, mechanical components, chemical equipment, medical device manufacturing, etc.",
+              "image": "1.4112",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X14CrMoS17",
+              "featureCharacter": "Can be magnetized, corrosion-resistant, excellent machinability",
+              "featureName": "Stainless steel 1.4104",
+              "featureUtility": "Used for manufacturing various machine parts",
+              "image": "1.4104",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X6CrNiMoTi17-12-2",
+              "featureCharacter": "Non-magnetic, heat-resistant, good welding performance, good strength performance at 1150°C, good corrosion resistance at 650°C, ",
+              "featureName": "Stainless steel 1.4841",
+              "featureUtility": "Used for high-temperature equipment in the petroleum, natural gas, and chemical industries",
+              "image": "1.4841",
+              "pricingRange": "5$",
+              "productionPriceRange": "5$"
+            },
+            {
+              "featureAlternativeName": "EN-X5CrNiCuNb16-4",
+              "featureCharacter": "Hardenable, corrosion-resistant, good hardness",
+              "featureName": "Stainless steel 1.4542",
+              "featureUtility": "Used for manufacturing medical parts, general machinery, automotive instruments, etc.",
+              "image": "1.4542",
+              "pricingRange": "3$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-X2CrNiMo17-12-2",
+              "featureCharacter": "Corrosion resistant, good weldability",
+              "featureName": "Stainless steel 1.4404",
+              "featureUtility": "Used in the chemical industry",
+              "image": "1.4404",
+              "pricingRange": "4$",
+              "productionPriceRange": "4$"
+            },
+            {
+              "featureAlternativeName": "EN-X17CrNi16-2",
+              "featureCharacter": "High strength, corrosion-resistant, good weldability",
+              "featureName": "Stainless steel 1.4057",
+              "featureUtility": "Used for manufacturing high-strength, tough and corrosion-resistant components, and load-bearing components working in humid environments",
+              "image": "1.4057",
+              "pricingRange": "5$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X20Cr13",
+              "featureCharacter": "Corrosion-resistant, high wear resistance, excellent machinability",
+              "featureName": "Stainless steel 420",
+              "featureUtility": "Used for chemical industry, food processing equipment, etc.",
+              "image": "420",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X6Cr17",
+              "featureCharacter": "Corrosion-resistant, good thermal conductivity",
+              "featureName": "Stainless steel 430",
+              "featureUtility": "Used for fuel, burner components, household appliances, home appliance components",
+              "image": "430",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            },
+            {
+              "featureAlternativeName": "EN-X5CrNiMo17-12-2",
+              "featureCharacter": "Corrosion-resistant, high temperature resistant",
+              "featureName": "Stainless steel 316",
+              "featureUtility": "Used for bolts, nuts, underwater equipment, chemical, dye production equipment, etc.",
+              "image": "316",
+              "pricingRange": "2$",
+              "productionPriceRange": "3$"
+            }
+          ],
+          "materialName": "Stainless steel",
+          "name": "stainless-steel"
+        },
+        {
+          "finishing": [
+            "Blackening",
+            "Annealing",
+            "Quenching",
+            "Tempering",
+            "Polishing"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "C45U",
+              "featureCharacter": "Wear-resistant, good machinability",
+              "featureName": "1.173",
+              "featureUtility": "Used for applications requiring a hard surface and tough core material",
+              "image": "1.173",
+              "pricingRange": "2",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "X40Cr14",
+              "featureCharacter": "Wear-resistant",
+              "featureName": "1.2083",
+              "featureUtility": "Used for manufacturing molds for corrosive plastics",
+              "image": "1.2083",
+              "pricingRange": "3",
+              "productionPriceRange": "4"
+            },
+            {
+              "featureAlternativeName": "115CrV3",
+              "featureCharacter": "Easy to machine, wear-resistant, high strength, high hardness",
+              "featureName": "1.221",
+              "featureUtility": "Used for components with high strength and hardness requirements",
+              "image": "1.221",
+              "pricingRange": "4",
+              "productionPriceRange": "2"
+            },
+            {
+              "featureAlternativeName": "40CrMnMoS8-6",
+              "featureCharacter": "Good nitriding performance, good machinability, wear-resistant, Note: limited polishability and etchability",
+              "featureName": "1.2312",
+              "featureUtility": "Used for tool and mold manufacturing",
+              "image": "1.2312",
+              "pricingRange": "3",
+              "productionPriceRange": "3"
+            },
+            {
+              "featureAlternativeName": "X153CrMoV12",
+              "featureCharacter": "High wear resistance, high strength, high hardness",
+              "featureName": "1.2379",
+              "featureUtility": "Used for tool manufacturing",
+              "image": "1.2379",
+              "pricingRange": "4",
+              "productionPriceRange": "4"
+            },
+            {
+              "featureAlternativeName": "90MnCrV8",
+              "featureCharacter": "High wear resistance, high hardness",
+              "featureName": "1.2842",
+              "featureUtility": "Used for molds, stamping tools, wire drawing dies, knives, bushings, lathes, chuck jaws",
+              "image": "1.2842",
+              "pricingRange": "3",
+              "productionPriceRange": "4"
+            },
+            {
+              "featureAlternativeName": "100Cr6",
+              "featureCharacter": "High wear resistance, high hardness",
+              "featureName": "1.3505",
+              "featureUtility": "Used for parts in mechanical engineering prone to wear",
+              "image": "1.3505",
+              "pricingRange": "3",
+              "productionPriceRange": "3"
+            }
+          ],
+          "materialName": "Tool Steel",
+          "name": "tool"
+        },
+        {
+          "finishing": [
+            "Sandblasting",
+            "Spraying Teflon",
+            "Laser carving"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent dimensional stability, good electrical insulation performance, good machinability, low water absorption, not suitable for sliding applications",
+              "featureName": "PC Polycarbonate",
+              "featureUtility": "Used for manufacturing large lampshades, protective glass, left and right eyepiece barrels of optical instruments, etc.",
+              "image": "PC",
+              "pricingRange": "4",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent mechanical performance, excellent sliding performance, good creep resistance, excellent machinability",
+              "featureName": "POM Polyoxymethylene",
+              "featureUtility": "Used for dry friction applications",
+              "image": "POM",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "High hardness, High transparency",
+              "featureName": "Acrylic",
+              "featureUtility": "Used for acrylic lightboxes, advertising signs, etc",
+              "image": "Acrylic",
+              "pricingRange": "3",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good chemical resistance, Excellent electrical insulation performance",
+              "featureName": "PP-H polypropylene",
+              "featureUtility": "Used for medical devices, cars, bicycles, parts, conveying pipelines, chemical containers, etc",
+              "image": "PP-H",
+              "pricingRange": "1",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good damping performance, Good mechanical performance, Good sliding performance, High wear resistance",
+              "featureName": "PA6 polyamide",
+              "featureUtility": "Used for manufacturing structures and sliding components with dynamic loads",
+              "image": "PA6",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent chemical resistance, Good damping performance, Excellent electrical insulation performance, Can be used at temperatures as low as -270 ° C",
+              "featureName": "PE-1000/PE-UHMW polyethylene",
+              "featureUtility": "For applications in the ultra-low temperature range (-200 ° C to -270 ° C)",
+              "image": "PE-1000_PE-UHMW",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Extremely high mechanical strength, Very high surface hardness, Excellent wear resistance, High heat load capacity, Excellent chemical resistance,  Good machinability",
+              "featureName": "PEEK polyetheretherketone",
+              "featureUtility": "For applications with high requirements for mechanical strength, stiffness, and temperature resistance",
+              "image": "PEEK",
+              "pricingRange": "5",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good damping performance, Excellent chemical resistance, Excellent electrical insulation performance, Suitable for temperatures up to -50 ° C",
+              "featureName": "PE-HD polyethylene",
+              "featureUtility": "Used in mechanical, electrical, chemical and other industries",
+              "image": "PE-HD",
+              "pricingRange": "1",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good chemical resistance, High toughness, Very high strength, High stiffness, Good welding and bonding performance, Good sliding and friction performance, Good machinability, Enhanced UV protection (PET black)",
+              "featureName": "PET white/black",
+              "featureUtility": "Used for making fibers, films, engineering plastics, polyester bottles, etc",
+              "image": "PET",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Non flammable, Excellent chemical resistance, Light resistance, weather resistance, and radiation resistance, Good electrical insulation performance",
+              "featureName": "PVDF polyvinylidene fluoride",
+              "featureUtility": "Thin 30 wire for wire winding circuits and commonly used PVDF insulation for printed circuit boards",
+              "image": "PVDF",
+              "pricingRange": "4",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent chemical resistance, Light resistant, weather resistant, and radiation resistant, Non flammable, Excellent electrical insulation performance",
+              "featureName": "PTFE polytetra fluoroethylene",
+              "featureUtility": "The preferred material for corrosion-resistant lining in corrosion-resistant pipelines, fittings, corrugated pipes, pump bodies, valves",
+              "image": "PTFE",
+              "pricingRange": "4",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good sliding performance, Excellent chemical resistance, Excellent electrical insulation performance",
+              "featureName": "PVC-U polyvinyl chloride",
+              "featureUtility": "Used for pipeline, cable insulation, flooring, signage, phonograph records, inflatable products, and rubber substitutes",
+              "image": "PVC-U",
+              "pricingRange": "5",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Excellent chemical resistance, high strength, High hardness, Excellent thermal performance, High resistance to creep",
+              "featureName": "PPS GF40",
+              "featureUtility": "Used in chemical equipment, food processing, semiconductors, electrical insulation, and electronics industries",
+              "image": "PPS-GF40",
+              "pricingRange": "5",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good damping performance, Excellent mechanical performance, Good heat resistance, Not suitable for sliding applications, Good machinability",
+              "featureName": "PA66 GF30",
+              "featureUtility": "Compared to unreinforced PA, it has better mechanical and thermal performance",
+              "image": "PA66-GF30",
+              "pricingRange": "3",
+              "productionPriceRange": "--"
+            },
+            {
+              "featureAlternativeName": "none",
+              "featureCharacter": "Good sliding performance, conductivity , Prevent static charges, Excellent mechanical performance, Good anti creep properties, Excellent machinability",
+              "featureName": "POM-C ESD",
+              "featureUtility": "Components for semiconductor and electronic manufacturing equipment",
+              "image": "POM-C-ESD",
+              "pricingRange": "2",
+              "productionPriceRange": "--"
+            }
+          ],
+          "materialName": "Plastic",
+          "name": "plastic"
+        },
+        {
+          "finishing": [
+            "Sandblasting",
+            "Polishing"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "DIN CuZn40",
+              "featureCharacter": "High strength, high hardness, good plasticity",
+              "featureName": "Brass H62",
+              "featureUtility": "Used for force parts manufactured by deep drawing and bending",
+              "image": "H62",
+              "pricingRange": "1",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "C10200",
+              "featureCharacter": "High purity, Excellent conductivity and thermal conductivity, Good corrosion resistance",
+              "featureName": "Oxygen free copper TU2",
+              "featureUtility": "Used for electric vacuum devices and instruments",
+              "image": "TU2",
+              "pricingRange": "",
+              "productionPriceRange": ""
+            },
+            {
+              "featureAlternativeName": "C10200",
+              "featureCharacter": "Good conductivity and thermal conductivity, Good corrosion resistance",
+              "featureName": "Purple copper T2",
+              "featureUtility": "Used for conductive, thermal, and corrosion-resistant equipment",
+              "image": "T2",
+              "pricingRange": "",
+              "productionPriceRange": ""
+            },
+            {
+              "featureAlternativeName": "DIN CuZn39Pb3",
+              "featureCharacter": "Excellent sliding performance, highly corrosion-resistant, good machinability",
+              "featureName": "CuZn39Pb3 Ms58 (bronze)",
+              "featureUtility": "Used for machining, etc.",
+              "image": "HPb58-2.5",
+              "pricingRange": "3",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "DIN-ECu58",
+              "featureCharacter": "High conductivity, highly corrosion-resistant, excellent thermal conductivity",
+              "featureName": "Cu-ETP CW004A (electrolytic tough pitch copper with oxygen refined)",
+              "featureUtility": "Used for electrodes in spark erosion and connecting elements in battery systems",
+              "image": "Cu-ETP-CW004A",
+              "pricingRange": "4",
+              "productionPriceRange": "2"
+            },
+            {
+              "featureAlternativeName": "EN CuSn4Pb4Zn4",
+              "featureCharacter": "Good wear resistance, Good corrosion resistance, Good processability",
+              "featureName": "Tin Bronze QSn4-4-4",
+              "featureUtility": "Used in fields such as ships, chemicals, and machinery.",
+              "image": "QSn4-4-4",
+              "pricingRange": "",
+              "productionPriceRange": ""
+            },
+            {
+              "featureAlternativeName": "DIN EN 1982-2008",
+              "featureCharacter": "Excellent sliding performance, highly corrosion-resistant, wear-resistant",
+              "featureName": "CuSn12 CC483K (bronze)",
+              "featureUtility": "Used for machine tool spindle bearings, precision machine tools or components",
+              "image": "CuSn12",
+              "pricingRange": "3",
+              "productionPriceRange": "2"
+            },
+            {
+              "featureAlternativeName": "EN 1982-2017",
+              "featureCharacter": "Excellent sliding performance, highly corrosion-resistant, excellent emergency operation performance, good machinability",
+              "featureName": "CuSn7Zn4Pb7 Rg7 (bronze)",
+              "featureUtility": "Used for sliding bearings and bearing linings in mechanical engineering",
+              "image": "CuSn7Zn4Pb7",
+              "pricingRange": "4",
+              "productionPriceRange": "1"
+            },
+            {
+              "featureAlternativeName": "DIN EN 12163-2016",
+              "featureCharacter": "Good sliding performance, highly corrosion-resistant, good spring performance, wear-resistant",
+              "featureName": "CuSn8 CW453K (bronze)",
+              "featureUtility": "Used for manufacturing wear-resistant parts and structural parts under medium loads and medium sliding speeds",
+              "image": "CuSn8",
+              "pricingRange": "4",
+              "productionPriceRange": "3"
+            }
+          ],
+          "materialName": "Copper",
+          "name": "copper"
+        },
+        {
+          "finishing": [
+            "Sandblasting"
+          ],
+          "materialFeatures": [
+            {
+              "featureAlternativeName": "EN-GJL-250",
+              "featureCharacter": "Good thermal conductivity, excellent wear resistance",
+              "featureName": "Cast Iron 0.6025",
+              "featureUtility": "--",
+              "image": "0.6025",
+              "pricingRange": "4",
+              "productionPriceRange": "2"
+            }
+          ],
+          "materialName": "Cast Iron",
+          "name": "hierro"
+        }
+      ],
+      "note": "在进行机加工表面处理时，需考虑工件的材料、使用环境、功能需求和美观性等因素，选择合适的表面处理工艺。同时，还需注意表面处理对环境的影响，尽量选择环保、低污染的工艺 。"
+    }
+  }
+}

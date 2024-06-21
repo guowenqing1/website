@@ -1,0 +1,176 @@
+.loader {
+  --s: 25px;
+  --g: 5px;
+
+  width: calc(3 * (1.353 * var(--s) + var(--g)));
+  display: grid;
+  justify-items: end;
+  aspect-ratio: 3;
+  overflow: hidden;
+  --_m: linear-gradient(90deg, #0000, #000 15px calc(100% - 15px), #0000);
+  -webkit-mask: var(--_m);
+  mask: var(--_m);
+}
+.loader:before {
+  content: "";
+  width: 200%;
+  background: linear-gradient(90deg, #ff1818 50%, #0000 0),
+    conic-gradient(
+      from -90deg at var(--s) calc(0.353 * var(--s)),
+      #fff 135deg,
+      #666 0 270deg,
+      #aaa 0
+    );
+  background-blend-mode: multiply;
+  --_m: linear-gradient(
+      to bottom right,
+      #0000 calc(0.25 * var(--s)),
+      #000 0 calc(100% - calc(0.25 * var(--s)) - 1.414 * var(--g)),
+      #0000 0
+    ),
+    conic-gradient(
+      from -90deg at right var(--g) bottom var(--g),
+      #000 90deg,
+      #0000 0
+    );
+  -webkit-mask: var(--_m);
+  mask: var(--_m);
+  background-size: calc(100% / 3) 100%, calc(100% / 6) 100%;
+  -webkit-mask-size: calc(100% / 6) 100%;
+  mask-size: calc(100% / 6) 100%;
+  -webkit-mask-composite: source-in;
+  mask-composite: intersect;
+  animation: l10 1s infinite linear;
+}
+@keyframes l10 {
+  to {
+    transform: translate(calc(100% / 3));
+  }
+}
+/* pdf */
+upload-button {
+  width: 150px;
+  display: block;
+  margin: 20px auto;
+}
+
+#file-to-upload {
+  display: none;
+}
+
+#pdf-main-container {
+  width: 400px;
+  margin: 20px auto;
+}
+
+#pdf-meta {
+  overflow: hidden;
+}
+
+#pdf-buttons {
+  float: left;
+}
+
+#page-count-container {
+  float: right;
+}
+
+#pdf-current-page {
+  display: inline;
+}
+
+#pdf-total-pages {
+  display: inline;
+}
+
+#image-convas-row {
+  display: flex;
+  margin: 20px 0;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#pdf-canvas {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+}
+
+#download-image {
+  width: 150px;
+  display: block;
+  margin: 20px auto 0 auto;
+  font-size: 13px;
+  text-align: center;
+}
+
+#image-generated {
+  margin-left: 20px;
+  border: 1px solid green;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.342));
+}
+
+/* Define las animaciones */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translatex(-100%);
+  }
+  to {
+    transform: translatex(0);
+  }
+}
+
+/* Aplica las animaciones a los elementos */
+.fade-in {
+  animation: fadeIn 0.5s ease-out;
+}
+
+.slide-in {
+  animation: slideIn 0.5s ease-out;
+}
+
+/* Aplica las animaciones a los elementos */
+@keyframes fade-in-scale {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.fade-enter-animate {
+  animation: fade-in-scale 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+/* fade con opacidad */
+@keyframes slide-in-opacity {
+  0% {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.slide-enter {
+  animation: slide-in-opacity 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
